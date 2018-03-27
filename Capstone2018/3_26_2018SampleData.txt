@@ -1,0 +1,1524 @@
+D Ford was running.
+C Craw was skipping.
+Both went down the hallway and stopped.
+
+Example:
+Time Stamp Name AccX AccY AccZ MagX MagY MagZ GyroX GyroY GyroZ HeartRate BatteryVoltage
+___________________________________________________________________________________
+Time StampC Craw-0.09 0.61 3.74-0.19 0.37-0.09-67.0233.81-18.44Heart RateVoltage
+Time StampD Ford 0.44-1.8210.16-0.23 0.46-0.12 0.90-34.4354.98Heart RateVoltage
+Time StampC Craw 0.74 1.16 4.48-0.18 0.36-0.09-24.9645.96-7.05Heart RateVoltage
+Time StampD Ford-0.56-1.70 9.48-0.23 0.47-0.13 1.65-31.8358.01Heart RateVoltage
+Time StampC Craw 0.70 2.36 4.13-0.18 0.36-0.10-26.6018.24-5.19Heart RateVoltage
+Time StampD Ford 0.32-2.3210.22-0.22 0.47-0.11 3.39-36.2161.46Heart RateVoltage
+Time StampC Craw-2.22 2.8111.58-0.17 0.36-0.10-50.38-63.08-4.78Heart RateVoltage
+Time StampD Ford 0.65-1.9110.00-0.22 0.48-0.12 1.64-38.4367.10Heart RateVoltage
+Time StampC Craw-4.19 2.0919.60-0.18 0.34-0.10-46.61-125.97-7.03Heart RateVoltage
+Time StampD Ford 0.79-2.35 9.12-0.21 0.49-0.12 0.19-40.6569.39Heart RateVoltage
+Time StampC Craw-4.14 2.8519.60-0.20 0.33-0.08-10.90-99.62-0.42Heart RateVoltage
+Time StampD Ford 1.13-1.85 9.63-0.21 0.49-0.13 6.52-36.6471.35Heart RateVoltage
+Time StampC Craw-2.78 1.9017.84-0.21 0.33-0.07 9.08-71.90 0.57Heart RateVoltage
+Time StampD Ford 0.86-2.1710.39-0.21 0.50-0.12-7.35-28.8479.77Heart RateVoltage
+Time StampC Craw-1.87-0.0215.87-0.23 0.33-0.0720.98-66.50 4.05Heart RateVoltage
+Time StampD Ford 0.42-2.0510.50-0.20 0.50-0.13-19.76-29.3187.40Heart RateVoltage
+Time StampC Craw-1.30 0.6515.53-0.24 0.34-0.0722.09-62.76-4.69Heart RateVoltage
+Time StampD Ford 0.08-2.29 9.33-0.18 0.51-0.13-22.92-32.3385.49Heart RateVoltage
+Time StampC Craw-0.98 0.8114.95-0.25 0.35-0.06 5.88-52.36-15.51Heart RateVoltage
+Time StampD Ford 0.29-1.94 9.00-0.18 0.51-0.13-4.18-42.8175.37Heart RateVoltage
+Time StampC Craw-0.17 1.2713.91-0.26 0.34-0.05-3.57-30.20-29.92Heart RateVoltage
+Time StampD Ford 0.37-1.87 9.68-0.17 0.50-0.1413.84-49.6266.88Heart RateVoltage
+Time StampC Craw-0.40 1.9612.86-0.26 0.34-0.04-9.63-9.21-42.24Heart RateVoltage
+Time StampD Ford 0.37-1.5611.12-0.16 0.52-0.11 7.04-50.5065.80Heart RateVoltage
+Time StampC Craw-1.04 2.4911.82-0.26 0.33-0.04-12.92 0.94-50.15Heart RateVoltage
+Time StampD Ford 0.56-1.8310.47-0.17 0.52-0.11-6.42-46.8066.54Heart RateVoltage
+Time StampC Craw-1.10 2.2711.47-0.26 0.32-0.04-12.15-9.85-53.30Heart RateVoltage
+Time StampD Ford 1.33-1.5010.11-0.16 0.52-0.11-6.20-41.6867.49Heart RateVoltage
+Time StampC Craw-1.73 1.4211.89-0.26 0.32-0.04-10.40-15.78-53.60Heart RateVoltage
+Time StampD Ford 0.69-1.59 9.82-0.15 0.52-0.12-8.96-40.0164.43Heart RateVoltage
+Time StampC Craw-2.01 0.5912.46-0.27 0.32-0.03-3.73-3.33-57.24Heart RateVoltage
+Time StampD Ford 0.75-1.5410.23-0.15 0.53-0.12-7.66-38.0560.43Heart RateVoltage
+Time StampC Craw-2.45 0.0312.12-0.27 0.30-0.04 7.3420.83-62.49Heart RateVoltage
+Time StampD Ford 0.55-1.40 9.85-0.14 0.53-0.12-22.27-35.2861.49Heart RateVoltage
+Time StampC Craw-2.85-0.5911.26-0.27 0.30-0.0421.5947.56-66.14Heart RateVoltage
+Time StampD Ford 0.28-1.47 9.48-0.14 0.53-0.12-26.57-33.1460.38Heart RateVoltage
+Time StampC Craw-3.50-1.2210.34-0.26 0.29-0.0326.1053.61-62.88Heart RateVoltage
+Time StampD Ford 0.10-1.43 9.73-0.13 0.53-0.12-24.29-30.5158.79Heart RateVoltage
+Time StampC Craw-3.59-0.8810.12-0.25 0.29-0.0531.1547.06-54.15Heart RateVoltage
+Time StampD Ford 0.06-1.36 9.24-0.12 0.53-0.13-21.39-31.3056.67Heart RateVoltage
+Time StampC Craw-4.01-0.9910.23-0.24 0.28-0.0641.2535.85-40.47Heart RateVoltage
+Time StampD Ford-0.17-1.09 8.95-0.11 0.53-0.14-14.08-29.6155.42Heart RateVoltage
+Time StampC Craw-4.68-1.92 9.71-0.24 0.29-0.0650.9627.95-22.87Heart RateVoltage
+Time StampD Ford 0.21-0.9210.00-0.10 0.53-0.13-16.64-31.8958.22Heart RateVoltage
+Time StampC Craw-4.55-2.41 8.87-0.24 0.30-0.0652.4127.15-5.48Heart RateVoltage
+Time StampD Ford 0.56-1.1010.05-0.09 0.52-0.13-19.57-39.8757.47Heart RateVoltage
+Time StampC Craw-4.35-2.81 7.72-0.22 0.31-0.0638.4016.4216.13Heart RateVoltage
+Time StampD Ford 0.21-0.65 9.68-0.09 0.52-0.14-16.56-39.6554.85Heart RateVoltage
+Time StampC Craw-4.34-2.91 7.06-0.23 0.31-0.0626.26 9.0634.62Heart RateVoltage
+Time StampD Ford-0.48-0.87 9.74-0.07 0.53-0.14-6.68-27.0649.29Heart RateVoltage
+Time StampC Craw-3.99-2.96 6.66-0.22 0.33-0.0717.75 6.9050.04Heart RateVoltage
+Time StampD Ford-1.14-1.09 9.46-0.07 0.53-0.15-6.67-22.4034.45Heart RateVoltage
+Time StampC Craw-3.52-2.46 6.40-0.21 0.33-0.07 7.35 1.6961.82Heart RateVoltage
+Time StampD Ford-0.63-0.38 9.54-0.06 0.52-0.14 0.19-32.0735.23Heart RateVoltage
+Time StampC Craw-3.73-2.54 6.12-0.22 0.33-0.06-3.39-0.6374.16Heart RateVoltage
+Time StampD Ford-0.69-1.05 9.37-0.06 0.52-0.1310.84-40.3835.16Heart RateVoltage
+Time StampC Craw-3.28-2.60 6.42-0.22 0.34-0.07-7.00-10.2683.49Heart RateVoltage
+Time StampD Ford-0.99-0.9010.73-0.06 0.53-0.1413.59-48.7431.85Heart RateVoltage
+Time StampC Craw-3.32-2.43 6.79-0.21 0.35-0.07-6.89-22.7789.41Heart RateVoltage
+Time StampD Ford-0.74-0.8711.21-0.06 0.53-0.13-5.22-51.3425.50Heart RateVoltage
+Time StampC Craw-4.07-2.23 8.02-0.21 0.35-0.06-6.12-30.7695.65Heart RateVoltage
+Time StampD Ford-1.17-0.9610.36-0.06 0.52-0.14-24.52-46.6221.33Heart RateVoltage
+Time StampC Craw-3.57-1.76 8.97-0.21 0.36-0.07-0.22-31.71102.60Heart RateVoltage
+Time StampD Ford-1.27-1.03 9.16-0.06 0.52-0.14-18.37-38.6617.61Heart RateVoltage
+Time StampC Craw-4.17-1.73 8.76-0.22 0.37-0.05 5.06-39.22112.23Heart RateVoltage
+Time StampD Ford-1.14-1.09 9.22-0.06 0.52-0.14-4.70-35.4114.35Heart RateVoltage
+Time StampC Craw-4.17-1.80 9.20-0.22 0.38-0.06 4.38-47.44122.21Heart RateVoltage
+Time StampD Ford-1.32-0.9010.25-0.06 0.52-0.15-9.71-44.36 9.68Heart RateVoltage
+Time StampC Craw-4.62-1.8610.33-0.22 0.40-0.04 1.63-60.62132.40Heart RateVoltage
+Time StampD Ford-1.51-1.0610.30-0.05 0.52-0.14-7.74-40.32 6.76Heart RateVoltage
+Time StampC Craw-4.48-1.9411.57-0.22 0.41-0.05-4.25-64.49141.32Heart RateVoltage
+Time StampD Ford-1.18-1.21 9.52-0.06 0.52-0.14-11.16-37.29 5.09Heart RateVoltage
+Time StampC Craw-4.28-1.2110.77-0.23 0.42-0.01-10.21-56.16148.81Heart RateVoltage
+Time StampD Ford-0.98-0.88 9.08-0.06 0.52-0.15-3.14-37.29 5.41Heart RateVoltage
+Time StampC Craw-3.39-0.56 9.44-0.23 0.45-0.03-14.39-39.80152.49Heart RateVoltage
+Time StampD Ford-0.40-0.77 8.73-0.05 0.53-0.16 6.41-26.96 7.46Heart RateVoltage
+Time StampC Craw-2.99-0.59 8.97-0.21 0.46-0.03-24.41-28.68153.91Heart RateVoltage
+Time StampD Ford-0.68-0.49 8.98-0.05 0.53-0.14 5.01-21.36 9.03Heart RateVoltage
+Time StampC Craw-2.58-0.2310.55-0.22 0.48-0.03-37.78-28.52149.27Heart RateVoltage
+Time StampD Ford-0.02 0.10 7.98-0.05 0.52-0.14-0.86-18.57 9.58Heart RateVoltage
+Time StampC Craw-1.98 0.2811.76-0.20 0.48-0.03-42.85-23.98137.67Heart RateVoltage
+Time StampD Ford 0.02 0.61 6.97-0.04 0.53-0.14 8.13-18.9510.25Heart RateVoltage
+Time StampC Craw-1.54 0.4012.78-0.20 0.49-0.04-42.71-24.11121.78Heart RateVoltage
+Time StampD Ford-0.03 0.55 7.09-0.05 0.53-0.1431.78-26.93 8.74Heart RateVoltage
+Time StampC Craw-2.06 0.2614.43-0.20 0.49-0.04-33.29-21.46107.92Heart RateVoltage
+Time StampD Ford-0.36-0.08 9.94-0.04 0.53-0.1453.33-42.95 5.72Heart RateVoltage
+Time StampC Craw-0.87 0.9814.17-0.18 0.50-0.04-15.36-14.3093.34Heart RateVoltage
+Time StampD Ford-0.08-0.3113.34-0.05 0.54-0.1340.88-42.94 3.43Heart RateVoltage
+Time StampC Craw-1.02 1.1313.03-0.17 0.50-0.04-6.59-0.9371.91Heart RateVoltage
+Time StampD Ford-0.09 0.2411.28-0.05 0.55-0.12 6.25-33.50 0.03Heart RateVoltage
+Time StampC Craw-0.48 1.2311.49-0.17 0.51-0.03-5.5311.2748.35Heart RateVoltage
+Time StampD Ford 0.37 0.68 9.10-0.05 0.55-0.1310.06-31.06-2.51Heart RateVoltage
+Time StampC Craw-0.79 1.9810.45-0.17 0.51-0.04-4.86 8.1529.55Heart RateVoltage
+Time StampD Ford 0.13 0.47 8.82-0.05 0.55-0.1219.88-31.18-1.92Heart RateVoltage
+Time StampC Craw-0.23 2.65 9.68-0.17 0.52-0.04 5.98 5.6511.93Heart RateVoltage
+Time StampD Ford-0.69 0.15 9.34-0.05 0.55-0.1321.32-33.27 0.02Heart RateVoltage
+Time StampC Craw 0.67 2.56 8.86-0.15 0.51-0.0419.17-0.09-1.47Heart RateVoltage
+Time StampD Ford-0.39 0.26 9.63-0.05 0.56-0.1212.56-39.54 1.23Heart RateVoltage
+Time StampC Craw 0.30 3.50 9.29-0.16 0.52-0.0520.99 0.15-24.92Heart RateVoltage
+Time StampD Ford-0.28 0.51 9.40-0.05 0.56-0.1214.99-38.71 3.84Heart RateVoltage
+Time StampC Craw-0.34 3.06 8.78-0.16 0.51-0.0425.7210.93-40.09Heart RateVoltage
+Time StampD Ford-0.15 0.71 9.22-0.06 0.56-0.1319.45-38.40 1.04Heart RateVoltage
+Time StampC Craw-0.30 3.13 7.62-0.17 0.52-0.0332.08 3.96-48.35Heart RateVoltage
+Time StampD Ford-0.12 0.83 9.13-0.06 0.56-0.1228.67-36.35-3.75Heart RateVoltage
+Time StampC Craw 0.12 2.98 6.61-0.17 0.52-0.0331.91-17.65-54.70Heart RateVoltage
+Time StampD Ford-0.07 0.4311.05-0.06 0.57-0.1124.20-36.66-9.48Heart RateVoltage
+Time StampC Craw 0.32 3.03 6.71-0.18 0.52-0.0226.48-17.68-64.06Heart RateVoltage
+Time StampD Ford-0.10 0.5011.04-0.06 0.57-0.11 1.97-34.58-11.38Heart RateVoltage
+Time StampC Craw-0.73 3.72 7.99-0.19 0.52-0.0216.67-20.68-82.21Heart RateVoltage
+Time StampD Ford-0.01 0.58 9.86-0.07 0.58-0.11-0.70-32.86-10.00Heart RateVoltage
+Time StampC Craw-2.76 2.67 9.79-0.20 0.51-0.02 2.67-29.13-90.98Heart RateVoltage
+Time StampD Ford 0.22 0.56 9.87-0.07 0.56-0.11 1.24-33.97-6.81Heart RateVoltage
+Time StampC Craw-2.50 3.05 8.81-0.21 0.50-0.02-2.41-14.42-89.87Heart RateVoltage
+Time StampD Ford 0.36 0.5010.33-0.07 0.57-0.11 9.13-36.11-4.03Heart RateVoltage
+Time StampC Craw-1.40 3.87 6.68-0.22 0.50-0.02-7.66 6.01-101.58Heart RateVoltage
+Time StampD Ford 0.51 0.6011.50-0.07 0.57-0.12 5.95-40.70-4.79Heart RateVoltage
+Time StampC Craw-0.68 4.09 6.39-0.23 0.48-0.01-24.97 4.31-115.86Heart RateVoltage
+Time StampD Ford 0.14 0.1810.64-0.08 0.57-0.11-20.53-46.07 0.09Heart RateVoltage
+Time StampC Craw-3.08 6.79 9.43-0.24 0.46-0.02-28.81-38.60-126.44Heart RateVoltage
+Time StampD Ford 0.70 1.29 8.00-0.08 0.57-0.12-17.87-42.41 3.06Heart RateVoltage
+Time StampC Craw-3.86 3.8613.59-0.26 0.44-0.02-8.26-82.14-125.01Heart RateVoltage
+Time StampD Ford 1.33 0.52 7.61-0.08 0.57-0.1131.97-36.2415.36Heart RateVoltage
+Time StampC Craw-3.84 3.6215.18-0.27 0.43-0.0022.46-50.86-132.13Heart RateVoltage
+Time StampD Ford 0.78 0.4810.22-0.08 0.56-0.1249.42-10.1722.56Heart RateVoltage
+Time StampC Craw-3.20 1.3212.51-0.28 0.42 0.0132.97-14.52-142.15Heart RateVoltage
+Time StampD Ford 1.06 1.2910.30-0.08 0.57-0.0939.59-6.1023.07Heart RateVoltage
+Time StampC Craw-3.49 0.4810.69-0.28 0.40 0.0132.16-9.57-148.06Heart RateVoltage
+Time StampD Ford 1.58 0.54 9.64-0.08 0.58-0.1012.71-25.6215.72Heart RateVoltage
+Time StampC Craw-3.70-0.2410.46-0.29 0.38 0.0131.46-8.02-144.18Heart RateVoltage
+Time StampD Ford-0.73-0.0411.53-0.07 0.57-0.1037.47-68.2919.12Heart RateVoltage
+Time StampC Craw-3.64-1.22 9.74-0.29 0.37 0.0129.69-5.91-136.69Heart RateVoltage
+Time StampD Ford 1.18 0.0814.38-0.08 0.58-0.1012.33-2.5726.60Heart RateVoltage
+Time StampC Craw-3.57-2.0110.18-0.30 0.35 0.0228.01 3.06-127.00Heart RateVoltage
+Time StampD Ford 1.30 0.4710.03-0.07 0.58-0.10-36.93-13.4328.87Heart RateVoltage
+Time StampC Craw-3.03-2.48 9.71-0.30 0.34 0.0229.4312.44-115.72Heart RateVoltage
+Time StampD Ford 2.99-0.6912.97-0.05 0.57-0.10-51.31-33.5326.19Heart RateVoltage
+Time StampC Craw-2.35-2.92 9.16-0.30 0.33 0.0233.21 6.80-104.54Heart RateVoltage
+Time StampD Ford 1.45-0.9714.92-0.05 0.56-0.09-34.93-33.2332.11Heart RateVoltage
+Time StampC Craw-1.49-3.28 7.44-0.30 0.32 0.0336.51-2.08-94.54Heart RateVoltage
+Time StampD Ford 0.96-2.4516.80-0.05 0.56-0.10-41.77-34.8341.87Heart RateVoltage
+Time StampC Craw-0.90-3.37 8.11-0.30 0.30 0.0134.02-14.41-83.85Heart RateVoltage
+Time StampD Ford 0.38-0.4613.95-0.05 0.55-0.11-66.74-36.4151.19Heart RateVoltage
+Time StampC Craw-0.47-3.2110.74-0.30 0.29 0.0227.94-11.51-70.00Heart RateVoltage
+Time StampD Ford 1.20 0.0512.54-0.05 0.54-0.14-27.88-15.5140.19Heart RateVoltage
+Time StampC Craw-1.95-4.1212.89-0.31 0.28 0.0226.83-2.60-48.55Heart RateVoltage
+Time StampD Ford 0.81-0.8810.77-0.03 0.53-0.12-25.21-21.5932.64Heart RateVoltage
+Time StampC Craw-4.11-4.9519.60-0.30 0.28 0.0217.49-5.99-21.13Heart RateVoltage
+Time StampD Ford-0.12-0.84 9.96-0.03 0.53-0.13-6.11-26.4430.55Heart RateVoltage
+Time StampC Craw-4.53-3.8019.60-0.31 0.27 0.0323.2436.43 7.11Heart RateVoltage
+Time StampD Ford-0.20-0.67 8.39-0.02 0.52-0.12-0.81-21.0629.57Heart RateVoltage
+Time StampC Craw-7.05-4.4319.60-0.31 0.27 0.0234.3098.9233.43Heart RateVoltage
+Time StampD Ford-0.49-0.85 7.28-0.03 0.51-0.13-33.52-2.7725.91Heart RateVoltage
+Time StampC Craw-8.31-4.6519.60-0.30 0.29 0.0142.71130.6160.28Heart RateVoltage
+Time StampD Ford 1.23-0.98 3.54-0.02 0.51-0.13-68.99-9.4121.65Heart RateVoltage
+Time StampC Craw-9.56-3.1418.77-0.29 0.30-0.0237.04123.7383.31Heart RateVoltage
+Time StampD Ford 1.49 0.90 2.28-0.01 0.50-0.14-37.13-37.5616.33Heart RateVoltage
+Time StampC Craw-9.49-1.3616.49-0.27 0.31-0.0323.11100.5096.00Heart RateVoltage
+Time StampD Ford-3.20-0.71 4.64-0.01 0.49-0.14105.42-44.1327.98Heart RateVoltage
+Time StampC Craw-7.20-0.3513.07-0.26 0.33-0.04 8.5683.7592.43Heart RateVoltage
+Time StampD Ford-1.75-1.5710.35 0.00 0.50-0.13112.53-65.4914.02Heart RateVoltage
+Time StampC Craw-4.98 0.40 8.39-0.25 0.35-0.04-8.4560.0874.67Heart RateVoltage
+Time StampD Ford 0.28 0.03 9.74-0.00 0.52-0.12 8.41-52.52 5.75Heart RateVoltage
+Time StampC Craw-2.89 0.79 5.66-0.24 0.35-0.07-17.1636.9254.85Heart RateVoltage
+Time StampD Ford-1.30-0.64 7.03-0.01 0.52-0.11-32.22-48.55-7.90Heart RateVoltage
+Time StampC Craw-1.42 1.13 3.40-0.23 0.35-0.07-11.4724.8234.90Heart RateVoltage
+Time StampD Ford-1.78-0.36 8.94-0.01 0.53-0.1212.45-61.82-16.68Heart RateVoltage
+Time StampC Craw-0.60 1.30 0.80-0.21 0.36-0.06-1.9910.7515.55Heart RateVoltage
+Time StampD Ford 0.14-0.6014.59-0.01 0.53-0.1137.28-63.82-32.42Heart RateVoltage
+Time StampC Craw-0.30 1.53-1.10-0.22 0.36-0.08 4.37 4.46 3.44Heart RateVoltage
+Time StampD Ford 0.38-2.2717.30-0.01 0.53-0.12-13.71-63.46-37.81Heart RateVoltage
+Time StampC Craw 0.55 1.14-0.64-0.22 0.37-0.0819.22-19.67-10.68Heart RateVoltage
+Time StampD Ford-0.25-1.5617.32-0.02 0.53-0.11-61.73-54.56-34.55Heart RateVoltage
+Time StampC Craw 0.60 1.30-0.66-0.22 0.37-0.0719.37-4.06-7.61Heart RateVoltage
+Time StampD Ford-2.01 0.9013.92-0.03 0.52-0.11-64.72-77.15-44.34Heart RateVoltage
+Time StampC Craw 0.84 1.97-0.16-0.23 0.37-0.0714.73-8.38-18.47Heart RateVoltage
+Time StampD Ford-1.86-1.3313.98-0.04 0.52-0.11 6.04-85.01-37.30Heart RateVoltage
+Time StampC Craw 1.20 1.56 0.30-0.23 0.37-0.0813.35-0.94-22.47Heart RateVoltage
+Time StampD Ford-2.01-1.3514.63-0.04 0.52-0.1254.54-78.08-43.46Heart RateVoltage
+Time StampC Craw 1.09 1.78 0.59-0.22 0.37-0.08 8.8019.56-24.38Heart RateVoltage
+Time StampD Ford-1.42 0.0613.29-0.06 0.53-0.1229.40-50.73-53.56Heart RateVoltage
+Time StampC Craw 0.78 1.33 0.31-0.22 0.37-0.09 3.1226.70-25.62Heart RateVoltage
+Time StampD Ford 0.23 1.2110.41-0.06 0.54-0.10-7.25-9.00-52.78Heart RateVoltage
+Time StampC Craw-0.09 0.86 0.39-0.22 0.37-0.08-9.1321.64-25.93Heart RateVoltage
+Time StampD Ford 0.65 0.18 6.37-0.06 0.54-0.10-38.1117.86-45.09Heart RateVoltage
+Time StampC Craw-0.03 0.38 1.29-0.22 0.36-0.10-22.52 8.04-15.63Heart RateVoltage
+Time StampD Ford 0.62-0.56 2.43-0.05 0.53-0.11-12.5917.78-34.75Heart RateVoltage
+Time StampC Craw-1.43 1.21 8.92-0.23 0.36-0.07-28.45-13.35-0.62Heart RateVoltage
+Time StampD Ford 1.25-0.88 4.56-0.05 0.54-0.1245.58-8.09-22.00Heart RateVoltage
+Time StampC Craw 2.54 1.67 7.85-0.23 0.35-0.09-34.93-46.33-8.15Heart RateVoltage
+Time StampD Ford 1.28-0.53 7.05-0.06 0.55-0.1143.91-21.03-1.31Heart RateVoltage
+Time StampC Craw 1.43 1.1116.33-0.25 0.35-0.08-35.64-85.44-37.85Heart RateVoltage
+Time StampD Ford 0.04 0.66 5.42-0.06 0.56-0.12 1.85-26.0616.90Heart RateVoltage
+Time StampC Craw-2.59 0.8819.45-0.25 0.33-0.08-20.36-89.88-51.64Heart RateVoltage
+Time StampD Ford 1.92 0.83 5.43-0.05 0.57-0.12-23.28-14.3127.48Heart RateVoltage
+Time StampC Craw-4.30 2.5017.29-0.27 0.32-0.07-9.92-79.57-41.60Heart RateVoltage
+Time StampD Ford 2.04 0.69 6.11-0.05 0.56-0.12-31.33-9.1734.16Heart RateVoltage
+Time StampC Craw-1.40 0.9817.81-0.28 0.31-0.07 0.38-86.05-33.76Heart RateVoltage
+Time StampD Ford 2.58-0.03 8.90-0.05 0.56-0.13-26.92-17.9239.57Heart RateVoltage
+Time StampC Craw-1.31 0.4817.25-0.30 0.31-0.0515.65-72.21-27.05Heart RateVoltage
+Time StampD Ford 1.60-1.9113.08-0.04 0.56-0.12-5.10-9.5751.11Heart RateVoltage
+Time StampC Craw-0.84 0.2215.44-0.31 0.32-0.0325.59-65.61-28.53Heart RateVoltage
+Time StampD Ford 1.16-1.2119.13-0.03 0.56-0.12-12.66-32.1758.29Heart RateVoltage
+Time StampC Craw-0.06-0.8114.80-0.32 0.31-0.0430.89-55.83-36.15Heart RateVoltage
+Time StampD Ford 2.11-0.5519.60-0.02 0.56-0.13-63.96-8.3057.30Heart RateVoltage
+Time StampC Craw 1.01-0.6113.66-0.34 0.32-0.0325.03-51.49-49.56Heart RateVoltage
+Time StampD Ford 3.34-0.8515.07-0.01 0.54-0.15-57.0017.3754.21Heart RateVoltage
+Time StampC Craw 0.03-0.7014.94-0.35 0.31-0.0110.02-25.57-71.93Heart RateVoltage
+Time StampD Ford 2.78-2.8414.03-0.01 0.53-0.17 3.75-10.6861.79Heart RateVoltage
+Time StampC Craw-3.21-0.1316.03-0.35 0.30-0.02-1.4417.31-81.21Heart RateVoltage
+Time StampD Ford-0.02-0.2711.03 0.00 0.53-0.1718.19-32.6370.88Heart RateVoltage
+Time StampC Craw-3.81 3.2116.53-0.35 0.29-0.00-10.1762.70-86.62Heart RateVoltage
+Time StampD Ford-2.10 1.14 8.89 0.01 0.53-0.17 6.38-64.0670.40Heart RateVoltage
+Time StampC Craw-5.05 5.1016.81-0.34 0.28-0.02-13.7287.97-106.39Heart RateVoltage
+Time StampD Ford-1.75 1.68 5.18 0.01 0.53-0.17-6.64-69.7157.71Heart RateVoltage
+Time StampC Craw-8.78 4.5519.60-0.34 0.26-0.03-6.3969.54-123.88Heart RateVoltage
+Time StampD Ford-1.44 0.49 5.21 0.01 0.53-0.17 8.40-72.2837.70Heart RateVoltage
+Time StampC Craw-11.78 1.5119.60-0.32 0.25-0.0321.3339.99-116.34Heart RateVoltage
+Time StampD Ford-2.72-0.67 6.60 0.01 0.52-0.1826.61-46.4427.25Heart RateVoltage
+Time StampC Craw-8.74-0.0117.55-0.31 0.23-0.0653.9043.90-107.32Heart RateVoltage
+Time StampD Ford-1.86 0.13 4.93 0.01 0.53-0.17-2.30-28.1416.15Heart RateVoltage
+Time StampC Craw-6.08-1.3710.80-0.30 0.23-0.0862.8127.99-85.00Heart RateVoltage
+Time StampD Ford-1.18 0.48 1.27 0.02 0.53-0.17-17.10-17.57 8.27Heart RateVoltage
+Time StampC Craw-4.02-2.53 6.80-0.29 0.22-0.0751.12-5.92-59.19Heart RateVoltage
+Time StampD Ford-1.22 0.42 1.46 0.02 0.52-0.18-14.95-19.85 6.72Heart RateVoltage
+Time StampC Craw-2.50-2.94 5.70-0.29 0.23-0.0733.35-20.22-29.59Heart RateVoltage
+Time StampD Ford-2.20-0.83 4.16 0.02 0.51-0.19-22.28-28.73 5.00Heart RateVoltage
+Time StampC Craw-0.67-2.88 2.97-0.30 0.23-0.0721.39 0.72-3.69Heart RateVoltage
+Time StampD Ford-2.13-2.19 8.80 0.02 0.51-0.18-6.57-39.23-3.46Heart RateVoltage
+Time StampC Craw-0.61-3.14-0.56-0.29 0.24-0.07 1.6233.75 8.52Heart RateVoltage
+Time StampD Ford-1.37-1.4515.66 0.02 0.51-0.20-23.42-30.34-11.15Heart RateVoltage
+Time StampC Craw-0.38-2.98-2.26-0.29 0.24-0.08-5.8444.4831.18Heart RateVoltage
+Time StampD Ford-0.95 2.1410.73 0.02 0.50-0.19-33.85-55.97-43.10Heart RateVoltage
+Time StampC Craw 1.16-2.53-2.80-0.28 0.24-0.08 3.80 5.7518.34Heart RateVoltage
+Time StampD Ford-3.41-1.3319.55 0.01 0.49-0.1927.43-70.60-56.73Heart RateVoltage
+Time StampC Craw 0.51-1.33 0.90-0.30 0.26-0.08-19.99-54.7622.72Heart RateVoltage
+Time StampD Ford-4.88-2.6819.60-0.01 0.49-0.18-5.03-73.16-68.73Heart RateVoltage
+Time StampC Craw-0.13-1.07 2.60-0.31 0.25-0.07-46.91-90.3718.19Heart RateVoltage
+Time StampD Ford-3.88-1.9619.58-0.02 0.49-0.19 2.77-74.74-82.29Heart RateVoltage
+Time StampC Craw 1.70-0.72 3.05-0.32 0.25-0.06 4.96-39.6916.98Heart RateVoltage
+Time StampD Ford-0.82 1.0414.72-0.03 0.49-0.1827.76-46.38-104.10Heart RateVoltage
+Time StampC Craw 0.21-0.51 2.58-0.32 0.25-0.06 1.95 8.3814.69Heart RateVoltage
+Time StampD Ford 0.98 1.1711.29-0.05 0.49-0.1633.99-33.39-109.75Heart RateVoltage
+Time StampC Craw-0.22-0.26 1.25-0.31 0.26-0.06 0.4317.2919.78Heart RateVoltage
+Time StampD Ford 0.86 0.36 5.98-0.06 0.50-0.1727.81-31.38-98.04Heart RateVoltage
+Time StampC Craw-0.46 0.18 2.80-0.31 0.27-0.06-9.7119.7513.96Heart RateVoltage
+Time StampD Ford 0.97-0.80 3.32-0.06 0.50-0.1540.08-42.52-63.47Heart RateVoltage
+Time StampC Craw 0.09 0.68 3.53-0.30 0.26-0.09-21.40 3.9718.28Heart RateVoltage
+Time StampD Ford 1.11-0.52 5.07-0.08 0.50-0.1642.94-23.50-45.19Heart RateVoltage
+Time StampC Craw-1.02 1.40 6.29-0.30 0.26-0.08-25.20-23.5319.38Heart RateVoltage
+Time StampD Ford 1.56 0.04 4.81-0.08 0.51-0.1518.90-17.18-27.10Heart RateVoltage
+Time StampC Craw 0.46 3.34 9.67-0.30 0.26-0.07-36.50-26.91-4.71Heart RateVoltage
+Time StampD Ford 1.49 1.06 4.34-0.08 0.50-0.1510.25-3.31-14.24Heart RateVoltage
+Time StampC Craw-0.20 2.8313.45-0.30 0.27-0.07-32.11-37.17-13.34Heart RateVoltage
+Time StampD Ford 1.00 1.95 4.41-0.08 0.51-0.14-6.50-0.61-9.99Heart RateVoltage
+Time StampC Craw-2.23 0.2518.80-0.30 0.26-0.06 1.93-66.07 5.28Heart RateVoltage
+Time StampD Ford 1.59 1.33 4.45-0.08 0.51-0.13-13.28-8.16-4.87Heart RateVoltage
+Time StampC Craw-2.86-0.2919.60-0.31 0.26-0.0534.68-62.4026.06Heart RateVoltage
+Time StampD Ford 2.27 0.11 6.31-0.07 0.51-0.15-18.83-16.42 2.79Heart RateVoltage
+Time StampC Craw-2.59-3.1319.60-0.31 0.28-0.0421.45-79.0619.77Heart RateVoltage
+Time StampD Ford 2.53-0.67 8.14-0.08 0.49-0.13-29.04-21.1916.87Heart RateVoltage
+Time StampC Craw-0.33-2.3116.42-0.32 0.28-0.03 8.49-36.3910.82Heart RateVoltage
+Time StampD Ford 2.67-0.4411.17-0.07 0.49-0.14-28.66-36.3732.35Heart RateVoltage
+Time StampC Craw 1.10-2.8311.48-0.32 0.28-0.02-0.18-17.8913.99Heart RateVoltage
+Time StampD Ford 2.12-1.4317.11-0.07 0.47-0.14-45.85-26.9047.24Heart RateVoltage
+Time StampC Craw 0.98-3.38 9.55-0.32 0.29-0.03-3.05-14.9918.92Heart RateVoltage
+Time StampD Ford 2.91-0.4418.95-0.06 0.46-0.14-47.69 7.6357.84Heart RateVoltage
+Time StampC Craw-0.11-4.5612.20-0.31 0.29-0.02-7.53-18.9626.18Heart RateVoltage
+Time StampD Ford 2.15-0.9117.10-0.05 0.46-0.15-47.2211.2656.16Heart RateVoltage
+Time StampC Craw-1.28-5.5815.50-0.30 0.29-0.02-7.20-3.4055.38Heart RateVoltage
+Time StampD Ford 2.70-1.4313.21-0.04 0.44-0.14-26.18-15.7350.72Heart RateVoltage
+Time StampC Craw-3.88-6.0517.39-0.30 0.29-0.02-10.9839.7671.64Heart RateVoltage
+Time StampD Ford 1.33-1.7015.32-0.03 0.43-0.1519.50-49.1259.51Heart RateVoltage
+Time StampC Craw-8.44-4.0919.60-0.29 0.30-0.02-11.8775.3888.23Heart RateVoltage
+Time StampD Ford-0.75-1.1114.75-0.03 0.43-0.1346.75-37.0564.67Heart RateVoltage
+Time StampC Craw-12.09-5.1219.60-0.27 0.31-0.02-3.2888.82111.18Heart RateVoltage
+Time StampD Ford-0.14-0.4712.45-0.03 0.44-0.1340.34-19.2765.14Heart RateVoltage
+Time StampC Craw-13.62-4.3519.60-0.27 0.32-0.05-8.09104.28124.54Heart RateVoltage
+Time StampD Ford-0.23 1.16 7.69-0.02 0.44-0.13-5.25-29.5854.87Heart RateVoltage
+Time StampC Craw-12.37-2.8817.19-0.25 0.33-0.05-5.11107.58133.93Heart RateVoltage
+Time StampD Ford-1.39 1.21 2.04-0.01 0.43-0.12-25.83-70.4538.18Heart RateVoltage
+Time StampC Craw-9.69-1.1911.47-0.23 0.34-0.0612.9880.35136.61Heart RateVoltage
+Time StampD Ford-1.51-0.34 1.17-0.01 0.43-0.1314.07-76.4928.64Heart RateVoltage
+Time StampC Craw-5.41-0.17 6.53-0.22 0.36-0.0512.9741.40126.69Heart RateVoltage
+Time StampD Ford-2.61 0.33 3.27-0.01 0.43-0.1144.18-63.1426.73Heart RateVoltage
+Time StampC Craw-4.05 0.12 4.27-0.21 0.37-0.07-11.38-0.16102.92Heart RateVoltage
+Time StampD Ford-1.76-0.32 4.70-0.01 0.44-0.1221.20-21.4924.75Heart RateVoltage
+Time StampC Craw-2.68 1.29 4.19-0.21 0.38-0.06-35.21-41.2573.34Heart RateVoltage
+Time StampD Ford-1.40 0.94 3.08-0.02 0.44-0.11 2.52-12.57 8.41Heart RateVoltage
+Time StampC Craw-1.27 1.36 4.35-0.21 0.38-0.05-38.40-54.7146.49Heart RateVoltage
+Time StampD Ford-1.32 1.16 1.75-0.01 0.44-0.11-11.17-34.40-12.17Heart RateVoltage
+Time StampC Craw 0.53 1.92 2.57-0.21 0.38-0.05-29.20-46.0114.97Heart RateVoltage
+Time StampD Ford-2.54-0.47 4.20-0.01 0.43-0.11-9.56-41.83-28.99Heart RateVoltage
+Time StampC Craw 0.38 1.91 1.57-0.22 0.38-0.04-17.19-31.11-3.12Heart RateVoltage
+Time StampD Ford-2.06-1.46 9.78 0.01 0.44-0.11 1.66-55.45-36.16Heart RateVoltage
+Time StampC Craw 0.26 2.11 1.79-0.23 0.37-0.03 4.42-39.62-6.04Heart RateVoltage
+Time StampD Ford-2.09 0.3215.17 0.00 0.43-0.12-30.10-50.53-35.22Heart RateVoltage
+Time StampC Craw 0.80 2.29 3.00-0.23 0.38-0.0332.66-49.29 0.43Heart RateVoltage
+Time StampD Ford-0.21 1.5315.84-0.00 0.43-0.11-35.99-79.99-53.86Heart RateVoltage
+Time StampC Craw 0.95 2.10 3.37-0.24 0.38-0.0236.30-19.70 3.46Heart RateVoltage
+Time StampD Ford-2.12-0.4019.60-0.01 0.42-0.1118.73-85.94-73.10Heart RateVoltage
+Time StampC Craw 2.37 2.11 1.56-0.23 0.38-0.0236.87 6.84 0.23Heart RateVoltage
+Time StampD Ford-3.46-1.5719.60-0.01 0.43-0.11-9.27-87.35-85.29Heart RateVoltage
+Time StampC Craw 1.99 2.19 0.53-0.24 0.38-0.0330.5126.42-18.33Heart RateVoltage
+Time StampD Ford-2.58-1.3319.60-0.02 0.46-0.11 7.16-58.64-80.74Heart RateVoltage
+Time StampC Craw 1.11 1.63 0.46-0.24 0.39-0.0321.7436.17-26.01Heart RateVoltage
+Time StampD Ford-0.33 1.0215.42-0.05 0.43-0.11 4.30-30.66-68.59Heart RateVoltage
+Time StampC Craw 0.55 0.95 0.65-0.23 0.39-0.03 2.6622.67-27.92Heart RateVoltage
+Time StampD Ford 1.23 2.0410.44-0.05 0.44-0.12 5.20-27.58-69.65Heart RateVoltage
+Time StampC Craw 0.20-0.10 1.45-0.22 0.38-0.03-18.37-4.02-25.19Heart RateVoltage
+Time StampD Ford 2.16 1.76 6.98-0.06 0.45-0.12 6.90-25.15-66.24Heart RateVoltage
+Time StampC Craw-6.21-0.1813.42-0.22 0.38-0.03-38.29-14.38-19.14Heart RateVoltage
+Time StampD Ford 1.06 1.11 2.98-0.07 0.46-0.1218.65-14.74-62.11Heart RateVoltage
+Time StampC Craw 0.51-1.59 6.58-0.23 0.36-0.02-27.73-19.79-6.89Heart RateVoltage
+Time StampD Ford 1.25 0.07 2.21-0.06 0.46-0.1262.49-7.74-54.08Heart RateVoltage
+Time StampC Craw 1.06-0.1311.19-0.22 0.36-0.03-44.17-23.45-8.14Heart RateVoltage
+Time StampD Ford 0.74 0.47 5.80-0.07 0.48-0.1071.29 3.43-39.37Heart RateVoltage
+Time StampC Craw-2.00 0.3817.47-0.22 0.34-0.02-46.24-45.11-16.20Heart RateVoltage
+Time StampD Ford 1.48 0.67 5.23-0.07 0.48-0.11-5.05-3.17-27.05Heart RateVoltage
+Time StampC Craw-4.04-0.2519.60-0.23 0.33-0.02-16.97-73.04-15.23Heart RateVoltage
+Time StampD Ford 1.06 1.11 2.05-0.08 0.47-0.11-39.71-16.44-12.64Heart RateVoltage
+Time StampC Craw-4.02 0.6519.60-0.23 0.33-0.0119.22-59.34-11.76Heart RateVoltage
+Time StampD Ford 2.13-0.12 2.57-0.08 0.47-0.13-29.27-24.97 6.20Heart RateVoltage
+Time StampC Craw-1.63-0.0619.04-0.24 0.34 0.0134.46-17.67-13.58Heart RateVoltage
+Time StampD Ford 2.53-1.21 3.82-0.07 0.46-0.13-23.91-30.6329.83Heart RateVoltage
+Time StampC Craw 0.10 0.8212.73-0.24 0.33 0.0029.9214.53-18.73Heart RateVoltage
+Time StampD Ford 2.76-0.63 5.51-0.07 0.46-0.13-5.72-57.5651.22Heart RateVoltage
+Time StampC Craw 1.14 1.63 8.74-0.24 0.34 0.01 1.54 1.22-40.18Heart RateVoltage
+Time StampD Ford 3.16 0.0614.46-0.08 0.47-0.13-4.31-63.9168.42Heart RateVoltage
+Time StampC Craw-0.35 1.1211.02-0.25 0.34 0.00-29.64-11.52-74.27Heart RateVoltage
+Time StampD Ford 0.62 0.2419.60-0.09 0.46-0.12-39.56-17.4373.39Heart RateVoltage
+Time StampC Craw-2.13 2.8314.77-0.24 0.32 0.02-27.7911.44-95.24Heart RateVoltage
+Time StampD Ford 1.66-2.6419.60-0.08 0.45-0.13 3.1310.3272.63Heart RateVoltage
+Time StampC Craw-5.13 2.7717.12-0.24 0.31 0.00-3.2526.85-106.75Heart RateVoltage
+Time StampD Ford 4.23-2.2019.60-0.07 0.45-0.12-30.0023.8767.75Heart RateVoltage
+Time StampC Craw-9.10 3.1019.60-0.23 0.29 0.0118.6127.56-115.79Heart RateVoltage
+Time StampD Ford 2.68-2.1814.50-0.06 0.44-0.13-29.03-17.8770.14Heart RateVoltage
+Time StampC Craw-11.44 2.1419.60-0.23 0.28 0.0139.1135.94-127.51Heart RateVoltage
+Time StampD Ford 0.05-1.3512.38-0.05 0.42-0.13 5.21-40.5886.58Heart RateVoltage
+Time StampC Craw-12.30 0.1619.60-0.23 0.28 0.0150.3641.52-136.99Heart RateVoltage
+Time StampD Ford-1.37-0.8411.58-0.05 0.42-0.1325.89-35.92103.20Heart RateVoltage
+Time StampC Craw-10.86-1.0319.60-0.23 0.27 0.0052.9587.00-133.26Heart RateVoltage
+Time StampD Ford-1.68-0.35 7.81-0.04 0.43-0.1217.76-31.51114.65Heart RateVoltage
+Time StampC Craw-8.25-0.5112.57-0.21 0.27 0.0055.56102.40-123.73Heart RateVoltage
+Time StampD Ford-1.51 0.64 5.48-0.03 0.42-0.1315.29-34.30101.96Heart RateVoltage
+Time StampC Craw-5.76-2.04 7.65-0.20 0.26-0.0247.6669.75-95.21Heart RateVoltage
+Time StampD Ford-2.00 0.34 5.38-0.03 0.43-0.1213.93-28.5279.51Heart RateVoltage
+Time StampC Craw-4.59-2.75 5.91-0.20 0.26-0.0238.8727.41-54.67Heart RateVoltage
+Time StampD Ford-2.56 0.48 3.54-0.02 0.43-0.13 1.05-13.8669.20Heart RateVoltage
+Time StampC Craw-2.43-2.53 3.44-0.19 0.25-0.0333.4814.90-11.31Heart RateVoltage
+Time StampD Ford-2.01 0.96 0.78-0.02 0.43-0.14-12.49-7.8562.06Heart RateVoltage
+Time StampC Craw-0.84-3.17 1.21-0.18 0.26-0.0330.7924.4723.30Heart RateVoltage
+Time StampD Ford-1.91 1.19-0.43-0.01 0.43-0.12-1.12-7.3949.90Heart RateVoltage
+Time StampC Craw 2.02-3.68-0.85-0.19 0.28-0.0316.5762.7647.00Heart RateVoltage
+Time StampD Ford-1.67-0.24 1.99-0.00 0.43-0.12 7.65-10.4031.11Heart RateVoltage
+Time StampC Craw 0.10-5.21-2.74-0.17 0.28-0.0411.3450.6958.21Heart RateVoltage
+Time StampD Ford-3.49-0.00 5.62-0.00 0.42-0.12-11.53-31.68 5.62Heart RateVoltage
+Time StampC Craw 1.05-5.05-4.41-0.16 0.29-0.06-14.3420.1370.34Heart RateVoltage
+Time StampD Ford-3.00-0.34 7.55-0.01 0.42-0.12-18.59-46.44-22.02Heart RateVoltage
+Time StampC Craw 0.83-2.05-1.68-0.16 0.29-0.06-29.58-24.4973.69Heart RateVoltage
+Time StampD Ford-4.83-1.2616.52-0.01 0.42-0.13-16.15-44.60-32.33Heart RateVoltage
+Time StampC Craw 1.09-1.42-0.63-0.16 0.29-0.06-31.75-41.7975.11Heart RateVoltage
+Time StampD Ford-4.88 1.1319.20-0.02 0.41-0.13-67.72-52.93-44.50Heart RateVoltage
+Time StampC Craw 0.91-0.67 0.73-0.16 0.30-0.06-22.88-47.6671.30Heart RateVoltage
+Time StampD Ford-4.02 0.7419.60-0.01 0.40-0.13-5.05-80.88-81.08Heart RateVoltage
+Time StampC Craw-0.29-0.15 0.97-0.18 0.30-0.04-11.09-46.3065.14Heart RateVoltage
+Time StampD Ford-5.54-0.4119.60-0.03 0.40-0.1213.33-84.74-112.99Heart RateVoltage
+Time StampC Craw-0.77 0.37 0.81-0.19 0.31-0.05-12.70-41.1254.15Heart RateVoltage
+Time StampD Ford-4.96 0.1219.60-0.05 0.41-0.12 5.21-75.78-136.40Heart RateVoltage
+Time StampC Craw-0.88 0.99 2.23-0.20 0.31-0.05-31.95-51.6641.55Heart RateVoltage
+Time StampD Ford-1.55 1.2316.11-0.06 0.41-0.13-9.63-50.76-151.40Heart RateVoltage
+Time StampC Craw-1.47 1.58 4.16-0.21 0.30-0.04-58.19-62.1322.65Heart RateVoltage
+Time StampD Ford 1.12 0.59 8.03-0.08 0.41-0.12-12.28-47.56-139.47Heart RateVoltage
+Time StampC Craw 1.21 1.08 5.54-0.21 0.30-0.03-19.00-15.6513.55Heart RateVoltage
+Time StampD Ford 2.47 0.93 2.75-0.08 0.41-0.1139.02-47.39-110.69Heart RateVoltage
+Time StampC Craw 1.27 3.6010.49-0.22 0.30-0.04-7.89-4.56 1.54Heart RateVoltage
+Time StampD Ford 1.62-0.71 3.80-0.08 0.41-0.1365.06-50.38-85.17Heart RateVoltage
+Time StampC Craw 2.38 4.9710.92-0.22 0.30-0.03-0.11-56.48-1.27Heart RateVoltage
+Time StampD Ford 0.73-0.54 5.63-0.09 0.42-0.1234.55-35.72-71.17Heart RateVoltage
+Time StampC Craw-3.55 6.1319.60-0.22 0.30-0.02 6.81-144.59-72.14Heart RateVoltage
+Time StampD Ford 2.35-0.29 3.00-0.10 0.43-0.10-6.76-24.40-62.02Heart RateVoltage
+Time StampC Craw-8.10 0.5819.60-0.24 0.30-0.0024.19-130.51-28.88Heart RateVoltage
+Time StampD Ford 1.87 0.02-0.08-0.10 0.43-0.10-23.75-24.57-46.79Heart RateVoltage
+Time StampC Craw-1.98 0.4119.60-0.25 0.30 0.0152.72-7.57-20.09Heart RateVoltage
+Time StampD Ford 2.29 0.17-0.45-0.10 0.42-0.10-3.61-24.19-24.69Heart RateVoltage
+Time StampC Craw-1.48-1.2914.64-0.25 0.31 0.0048.87 3.18-13.04Heart RateVoltage
+Time StampD Ford 2.57-0.45 3.12-0.10 0.42-0.10 2.92-34.23 5.23Heart RateVoltage
+Time StampC Craw 0.36-2.1910.81-0.25 0.31 0.0133.18-24.29 1.61Heart RateVoltage
+Time StampD Ford 3.81 0.54 5.91-0.10 0.43-0.09-8.08-23.1230.56Heart RateVoltage
+Time StampC Craw 2.29-2.71 8.50-0.25 0.32-0.0012.73-40.28 8.21Heart RateVoltage
+Time StampD Ford 4.86-0.83 7.44-0.10 0.43-0.10-14.39-42.6349.23Heart RateVoltage
+Time StampC Craw 2.15-2.78 8.53-0.25 0.31 0.02-12.38-35.79 4.22Heart RateVoltage
+Time StampD Ford 3.41-0.3516.38-0.09 0.43-0.1024.10-35.8076.05Heart RateVoltage
+Time StampC Craw 0.38-2.9712.44-0.25 0.31 0.02-21.02-0.74 3.00Heart RateVoltage
+Time StampD Ford 2.61-0.3619.60-0.09 0.44-0.10-10.96 6.9692.68Heart RateVoltage
+Time StampC Craw-0.12-2.6413.43-0.24 0.32 0.01 0.7629.3612.35Heart RateVoltage
+Time StampD Ford 2.15-1.9119.60-0.09 0.44-0.11 0.40 6.5888.79Heart RateVoltage
+Time StampC Craw-6.04-4.5617.47-0.23 0.31 0.0011.9424.3243.65Heart RateVoltage
+Time StampD Ford 2.56-0.5619.60-0.07 0.44-0.10-54.9330.5182.36Heart RateVoltage
+Time StampC Craw-11.37-2.9219.60-0.22 0.32 0.02-13.9039.5661.22Heart RateVoltage
+Time StampD Ford 1.59-0.7912.04-0.06 0.42-0.11-21.1220.9874.74Heart RateVoltage
+Time StampC Craw-14.48-2.2019.60-0.22 0.32 0.02-12.11101.0073.26Heart RateVoltage
+Time StampD Ford-0.11-0.7711.64-0.05 0.42-0.1147.95-13.7569.93Heart RateVoltage
+Time StampC Craw-14.81-2.3419.60-0.20 0.32 0.00 6.56156.0783.16Heart RateVoltage
+Time StampD Ford-1.06-0.4512.04-0.04 0.43-0.1079.80-24.1372.56Heart RateVoltage
+Time StampC Craw-12.32-1.4813.88-0.18 0.33-0.0211.30126.8387.93Heart RateVoltage
+Time StampD Ford-0.08 0.2110.13-0.03 0.44-0.1054.85-46.1667.61Heart RateVoltage
+Time StampC Craw-8.54-0.6911.37-0.16 0.34-0.04-6.2165.6990.59Heart RateVoltage
+Time StampD Ford-0.84 0.01 6.88-0.03 0.45-0.09 0.22-72.1257.11Heart RateVoltage
+Time StampC Craw-5.55-0.2210.24-0.16 0.34-0.04-26.3228.3677.60Heart RateVoltage
+Time StampD Ford-1.70-0.67 4.04-0.03 0.45-0.09-0.84-69.9053.85Heart RateVoltage
+Time StampC Craw-3.89 1.02 9.01-0.16 0.34-0.04-40.4717.1844.61Heart RateVoltage
+Time StampD Ford-2.43-0.33 2.48-0.03 0.45-0.1022.23-42.8855.72Heart RateVoltage
+Time StampC Craw-2.08 2.59 5.62-0.15 0.35-0.04-40.42 2.88 7.70Heart RateVoltage
+Time StampD Ford-2.33 0.61 1.74-0.03 0.46-0.0917.21-28.5746.95Heart RateVoltage
+Time StampC Craw-0.17 2.38 2.71-0.15 0.34-0.05-28.59-3.94-14.11Heart RateVoltage
+Time StampD Ford-1.91 1.17 1.57-0.03 0.45-0.10 0.41-17.9431.84Heart RateVoltage
+Time StampC Craw 0.48 1.87-0.41-0.15 0.33-0.04-12.96-7.62-32.73Heart RateVoltage
+Time StampD Ford-2.32 0.70 0.80-0.02 0.45-0.10-16.13-16.3310.11Heart RateVoltage
+Time StampC Craw 1.71 1.90 0.21-0.15 0.33-0.0513.68-31.04-20.27Heart RateVoltage
+Time StampD Ford-5.01-0.10 1.41-0.03 0.46-0.10-20.24-17.74-6.62Heart RateVoltage
+Time StampC Craw 1.82 1.62 1.01-0.16 0.33-0.0414.28-10.34-14.80Heart RateVoltage
+Time StampD Ford-5.16-0.41 5.73-0.04 0.45-0.11 1.20-20.19-40.07Heart RateVoltage
+Time StampC Craw 2.27 1.53 0.78-0.16 0.33-0.0526.61-15.86-15.99Heart RateVoltage
+Time StampD Ford-5.39-1.4014.42-0.04 0.45-0.11-18.97-31.18-65.44Heart RateVoltage
+Time StampC Craw 2.57 2.27 0.56-0.17 0.33-0.0320.7712.82-26.25Heart RateVoltage
+Time StampD Ford-4.48 0.7714.53-0.05 0.45-0.12-71.27-7.95-76.93Heart RateVoltage
+Time StampC Craw 1.96 1.43-0.44-0.17 0.32-0.0420.6818.61-40.42Heart RateVoltage
+Time StampD Ford-1.37-0.2517.39-0.05 0.44-0.1254.57-54.61-115.95Heart RateVoltage
+Time StampC Craw 0.81 1.26-0.29-0.17 0.32-0.04 9.2018.47-44.22Heart RateVoltage
+Time StampD Ford-5.56-3.5919.60-0.06 0.43-0.1313.76-102.08-151.90Heart RateVoltage
+Time StampC Craw 0.73 0.53 1.14-0.16 0.32-0.04-4.78-13.24-41.86Heart RateVoltage
+Time StampD Ford-3.21-2.5019.60-0.08 0.43-0.13-47.76-76.96-157.67Heart RateVoltage
+Time StampC Craw-0.80 1.24 8.63-0.18 0.32-0.03-9.69-9.03-43.09Heart RateVoltage
+Time StampD Ford 1.85-0.1114.19-0.10 0.41-0.13-0.61-38.40-148.37Heart RateVoltage
+Time StampC Craw-0.89-0.26 3.76-0.18 0.31-0.04 3.1611.10-41.07Heart RateVoltage
+Time StampD Ford 3.52 1.32 7.43-0.12 0.41-0.1426.75-57.88-135.65Heart RateVoltage
+Time StampC Craw-0.80-0.73 2.89-0.18 0.30-0.03-5.3630.98-42.44Heart RateVoltage
+Time StampD Ford 1.86 0.85 5.44-0.13 0.41-0.1438.81-99.97-117.99Heart RateVoltage
+Time StampC Craw-2.16-1.13 4.40-0.17 0.29-0.02-15.8929.40-45.47Heart RateVoltage
+Time StampD Ford 1.48-1.24 9.49-0.16 0.41-0.1340.10-96.83-97.61Heart RateVoltage
+Time StampC Craw-0.80-1.55 6.99-0.17 0.28-0.02-16.3711.32-16.45Heart RateVoltage
+Time StampD Ford 1.37 0.12 8.97-0.16 0.41-0.1326.63-9.68-72.21Heart RateVoltage
+Time StampC Craw-1.22-1.87 8.33-0.17 0.28-0.02-17.66-2.89-2.82Heart RateVoltage
+Time StampD Ford 3.19-0.72 5.01-0.16 0.40-0.13 8.0042.74-55.85Heart RateVoltage
+Time StampC Craw-0.20-0.8511.23-0.18 0.29-0.02-31.13-24.01 0.04Heart RateVoltage
+Time StampD Ford 3.82 1.26 0.16-0.14 0.39-0.13-15.5645.27-39.55Heart RateVoltage
+Time StampC Craw 0.58-0.8012.39-0.18 0.28-0.02-39.59-24.24 2.45Heart RateVoltage
+Time StampD Ford 3.11 0.98-1.45-0.14 0.40-0.15-9.52 7.37-30.50Heart RateVoltage
+Time StampC Craw-0.89 0.5713.78-0.18 0.27-0.02-41.19-55.49 8.20Heart RateVoltage
+Time StampD Ford 3.68-0.23 2.44-0.14 0.39-0.14 1.13-32.00-8.98Heart RateVoltage
+Time StampC Craw-3.40-0.0019.05-0.19 0.28 0.00-24.10-94.6112.19Heart RateVoltage
+Time StampD Ford 3.29-0.81 5.28-0.14 0.39-0.15-5.19-41.5817.82Heart RateVoltage
+Time StampC Craw-0.52 0.2519.60-0.20 0.26 0.01 3.81-70.61 8.23Heart RateVoltage
+Time StampD Ford 3.48-1.4010.02-0.14 0.39-0.15-8.88-58.6043.16Heart RateVoltage
+Time StampC Craw 0.12 1.0516.60-0.22 0.26 0.0114.30-9.74-9.28Heart RateVoltage
+Time StampD Ford 2.69-0.0913.60-0.15 0.40-0.16-25.23-50.7663.06Heart RateVoltage
+Time StampC Craw 0.02 0.4912.68-0.22 0.26 0.03 7.30 5.49-31.30Heart RateVoltage
+Time StampD Ford 3.39 0.2714.01-0.15 0.38-0.16-55.78-51.1076.88Heart RateVoltage
+Time StampC Craw-2.14 0.6910.70-0.21 0.26 0.02-0.89-21.57-47.08Heart RateVoltage
+Time StampD Ford 1.34-1.4816.72-0.16 0.38-0.14 0.64-59.3989.14Heart RateVoltage
+Time StampC Craw-4.31 1.9216.59-0.22 0.26 0.03-17.14-33.79-55.17Heart RateVoltage
+Time StampD Ford 1.33-1.4219.60-0.16 0.39-0.14 5.37-27.3296.06Heart RateVoltage
+Time StampC Craw-6.03 5.2119.60-0.22 0.25 0.03-27.37-3.69-70.20Heart RateVoltage
+Time StampD Ford 2.05-1.9119.03-0.16 0.40-0.15-11.42-12.6690.94Heart RateVoltage
+Time StampC Craw-8.26 6.6219.60-0.22 0.24 0.03 2.2135.44-81.44Heart RateVoltage
+Time StampD Ford 0.97-0.7614.06-0.16 0.41-0.1410.86-19.2884.02Heart RateVoltage
+Time StampC Craw-10.27 1.9219.60-0.21 0.24 0.0331.3418.91-78.63Heart RateVoltage
+Time StampD Ford 0.44-0.3910.76-0.15 0.41-0.1517.05-51.7373.57Heart RateVoltage
+Time StampC Craw-6.72 1.6019.60-0.21 0.24 0.0451.9719.32-81.96Heart RateVoltage
+Time StampD Ford-0.29-0.56 8.34-0.15 0.42-0.15 8.83-66.3467.52Heart RateVoltage
+Time StampC Craw-4.53 0.4314.33-0.20 0.24 0.0265.1915.36-71.18Heart RateVoltage
+Time StampD Ford-0.61-1.05 5.49-0.15 0.42-0.1513.67-47.7369.82Heart RateVoltage
+Time StampC Craw-2.59-1.51 8.66-0.20 0.25 0.0158.31-4.99-40.35Heart RateVoltage
+Time StampD Ford-2.27-1.98 5.66-0.16 0.44-0.1337.98-18.0975.93Heart RateVoltage
+Time StampC Craw-1.67-2.73 5.50-0.21 0.25 0.0234.10-31.99-8.67Heart RateVoltage
+Time StampD Ford-1.67-0.18 4.30-0.14 0.44-0.1426.90 3.4675.14Heart RateVoltage
+Time StampC Craw-0.31-3.04 4.01-0.20 0.26 0.0110.40-38.2016.10Heart RateVoltage
+Time StampD Ford-0.50 0.97 1.71-0.14 0.45-0.14-3.82-1.2259.95Heart RateVoltage
+Time StampC Craw 1.08-2.57 1.91-0.21 0.26 0.02-8.31-16.3439.18Heart RateVoltage
+Time StampD Ford-0.99-0.52 1.33-0.14 0.46-0.14-4.80-17.3240.08Heart RateVoltage
+Time StampC Craw 0.51-2.86 1.05-0.21 0.27-0.00-27.7117.8749.33Heart RateVoltage
+Time StampD Ford-2.11-0.90 2.63-0.13 0.45-0.14-6.14-24.3428.55Heart RateVoltage
+Time StampC Craw 0.16-2.75 0.82-0.21 0.28 0.01-25.8111.7651.19Heart RateVoltage
+Time StampD Ford-3.38-0.61 5.55-0.12 0.46-0.13-13.31-28.3511.87Heart RateVoltage
+Time StampC Craw 0.12-4.13 1.42-0.21 0.28-0.00-9.20 8.1064.63Heart RateVoltage
+Time StampD Ford-3.10-1.4110.77-0.12 0.46-0.13-26.86-31.20-12.70Heart RateVoltage
+Time StampC Craw 1.22-2.19 1.65-0.21 0.28-0.02 5.7613.4570.11Heart RateVoltage
+Time StampD Ford-2.91-1.4214.69-0.13 0.45-0.14-49.20-40.20-28.84Heart RateVoltage
+Time StampC Craw 0.71-1.14 0.38-0.20 0.29-0.0011.8919.3970.64Heart RateVoltage
+Time StampD Ford-2.87 0.7813.88-0.13 0.44-0.15-32.83-76.44-46.32Heart RateVoltage
+Time StampC Craw 0.31-0.02-0.23-0.20 0.29-0.0214.0414.9968.02Heart RateVoltage
+Time StampD Ford-4.65-0.7119.60-0.13 0.45-0.1542.58-74.39-70.76Heart RateVoltage
+Time StampC Craw-0.14 0.22-0.90-0.20 0.30-0.01 8.17 0.5264.14Heart RateVoltage
+Time StampD Ford-4.71-2.3219.60-0.15 0.45-0.1512.38-78.35-85.74Heart RateVoltage
+Time StampC Craw-0.24 0.62 0.91-0.20 0.30-0.02-12.49-10.4661.23Heart RateVoltage
+Time StampD Ford-2.04-0.6218.20-0.17 0.45-0.13-5.75-61.79-83.89Heart RateVoltage
+Time StampC Craw-0.32 0.74 2.32-0.19 0.31-0.02-30.24-18.8641.76Heart RateVoltage
+Time StampD Ford 0.81 1.4710.97-0.17 0.44-0.12-2.84-32.98-80.57Heart RateVoltage
+Time StampC Craw-1.77 1.00 3.37-0.20 0.30-0.02-9.0817.6025.76Heart RateVoltage
+Time StampD Ford 2.00 0.96 6.12-0.17 0.43-0.1322.34-29.90-75.43Heart RateVoltage
+Time StampC Craw-2.48 1.71 4.77-0.19 0.30-0.03-13.10 4.2812.85Heart RateVoltage
+Time StampD Ford 1.12-1.07 3.37-0.18 0.44-0.1242.25-40.15-67.73Heart RateVoltage
+Time StampC Craw-2.75 2.79 9.46-0.19 0.30-0.03-32.65-28.03 3.99Heart RateVoltage
+Time StampD Ford 1.21-1.15 5.04-0.18 0.45-0.1237.59-48.22-59.01Heart RateVoltage
+Time StampC Craw-0.12 4.8414.51-0.18 0.29-0.02-43.01-16.34-12.02Heart RateVoltage
+Time StampD Ford 1.93-1.71 7.49-0.19 0.45-0.1336.48-29.90-48.67Heart RateVoltage
+Time StampC Craw 2.18 3.8916.17-0.19 0.26-0.03-29.54-10.59-24.81Heart RateVoltage
+Time StampD Ford 1.26-0.06 4.94-0.19 0.46-0.1319.41 3.38-33.67Heart RateVoltage
+Time StampC Craw-0.27 4.3915.60-0.19 0.27-0.02-7.96-75.40-37.33Heart RateVoltage
+Time StampD Ford 2.38-0.35 3.12-0.19 0.46-0.13 2.12-14.60-14.35Heart RateVoltage
+Time StampC Craw-4.80 2.5719.60-0.20 0.27-0.03-9.60-91.46-35.86Heart RateVoltage
+Time StampD Ford 3.36 0.64 4.34-0.20 0.45-0.13-14.61-40.6511.58Heart RateVoltage
+Time StampC Craw-1.43 3.2818.59-0.21 0.27-0.01-0.05-46.57-26.27Heart RateVoltage
+Time StampD Ford 2.13 2.44 4.89-0.19 0.45-0.14-39.53-63.8531.69Heart RateVoltage
+Time StampC Craw-0.99 0.6513.88-0.21 0.27-0.00 3.82-20.17-33.95Heart RateVoltage
+Time StampD Ford 2.44 2.41 7.49-0.20 0.45-0.13-68.37-98.7129.61Heart RateVoltage
+Time StampC Craw-3.90-3.1014.10-0.21 0.26-0.01 0.28-47.44-19.22Heart RateVoltage
+Time StampD Ford 2.34-0.5213.75-0.21 0.45-0.12-51.42-72.7341.55Heart RateVoltage
+Time StampC Craw-1.13-2.3117.95-0.21 0.26-0.01 5.72-28.81 4.88Heart RateVoltage
+Time StampD Ford 2.11-0.5113.06-0.22 0.45-0.13-6.25-36.5763.34Heart RateVoltage
+Time StampC Craw 1.38-1.2615.85-0.21 0.26-0.0114.7936.15-0.46Heart RateVoltage
+Time StampD Ford 1.13-0.2519.21-0.21 0.45-0.13 9.90-46.6373.25Heart RateVoltage
+Time StampC Craw-2.34-1.3116.10-0.20 0.26-0.0213.4839.48 1.10Heart RateVoltage
+Time StampD Ford 2.05-6.4719.60-0.21 0.46-0.12 0.45-60.3370.33Heart RateVoltage
+Time StampC Craw-7.68-1.7819.60-0.19 0.26-0.0222.2535.7410.23Heart RateVoltage
+Time StampD Ford 0.39-5.1119.60-0.21 0.46-0.12-28.8325.31113.28Heart RateVoltage
+Time StampC Craw-8.53-2.5819.60-0.17 0.27-0.0354.3287.6823.82Heart RateVoltage
+Time StampD Ford-1.30-1.1614.81-0.21 0.47-0.12-1.0127.25112.36Heart RateVoltage
+Time StampC Craw-10.95-2.9819.60-0.15 0.27-0.0652.05119.0935.76Heart RateVoltage
+Time StampD Ford-1.43-1.6111.65-0.18 0.46-0.13 6.0915.28112.16Heart RateVoltage
+Time StampC Craw-10.48-0.9317.23-0.13 0.28-0.0625.8376.8154.76Heart RateVoltage
+Time StampD Ford-2.71 0.35 8.97-0.17 0.46-0.1219.80 2.64107.20Heart RateVoltage
+Time StampC Craw-6.96-0.6414.00-0.12 0.28-0.08 7.9060.7161.04Heart RateVoltage
+Time StampD Ford-2.95 0.75 7.16-0.16 0.48-0.1319.40-2.8988.22Heart RateVoltage
+Time StampC Craw-5.34-0.75 9.79-0.11 0.28-0.08-7.4030.8157.49Heart RateVoltage
+Time StampD Ford-2.77 0.57 4.61-0.15 0.48-0.1313.63-3.9365.47Heart RateVoltage
+Time StampC Craw-4.04 0.37 7.94-0.11 0.27-0.07-19.45 2.4945.99Heart RateVoltage
+Time StampD Ford-2.28-0.04 2.57-0.14 0.49-0.12 0.40-24.1950.12Heart RateVoltage
+Time StampC Craw-2.37 0.76 7.18-0.11 0.27-0.07-22.21-6.9523.64Heart RateVoltage
+Time StampD Ford-3.14 0.38 0.91-0.13 0.48-0.12-3.28-38.6243.81Heart RateVoltage
+Time StampC Craw-0.83 0.51 6.85-0.11 0.26-0.08-5.43 1.16-0.46Heart RateVoltage
+Time StampD Ford-3.27 1.36 2.16-0.13 0.48-0.12 5.37-44.9030.79Heart RateVoltage
+Time StampC Craw-0.25 0.28 5.05-0.10 0.26-0.0815.1321.32-12.66Heart RateVoltage
+Time StampD Ford-3.00-0.40 5.40-0.13 0.48-0.12-9.90-28.8218.93Heart RateVoltage
+Time StampC Craw-0.07 0.15 2.58-0.11 0.26-0.1023.9829.81-13.20Heart RateVoltage
+Time StampD Ford-5.00 2.61 2.80-0.12 0.48-0.12-26.84-15.84-3.04Heart RateVoltage
+Time StampC Craw 0.57 0.74 0.37-0.11 0.25-0.1025.9026.43-5.55Heart RateVoltage
+Time StampD Ford-4.67 1.15 1.45-0.12 0.48-0.12-4.05-13.13-24.99Heart RateVoltage
+Time StampC Craw 1.58 0.92-0.13-0.11 0.25-0.1024.7233.33-2.42Heart RateVoltage
+Time StampD Ford-2.94-2.37 9.42-0.13 0.47-0.1352.75-19.99-36.65Heart RateVoltage
+Time StampC Craw 1.66 1.27-0.63-0.10 0.25-0.1021.5232.76-6.15Heart RateVoltage
+Time StampD Ford-3.40 0.3115.66-0.12 0.47-0.11 0.88-40.35-46.12Heart RateVoltage
+Time StampC Craw 1.91 1.45-0.77-0.10 0.26-0.1012.1443.88-17.67Heart RateVoltage
+Time StampD Ford-2.08 0.9915.36-0.12 0.48-0.11-33.42-77.18-82.99Heart RateVoltage
+Time StampC Craw 2.17 1.08-0.72-0.09 0.25-0.10 7.0549.14-33.35Heart RateVoltage
+Time StampD Ford-3.19-2.8319.60-0.14 0.47-0.11-1.61-101.29-101.62Heart RateVoltage
+Time StampC Craw 1.35 0.63-0.67-0.09 0.25-0.10-4.2857.22-40.37Heart RateVoltage
+Time StampD Ford-4.17-2.2319.60-0.16 0.47-0.07 7.56-85.00-91.54Heart RateVoltage
+Time StampC Craw 1.37 0.08-1.74-0.08 0.24-0.10-8.7960.75-45.02Heart RateVoltage
+Time StampD Ford-4.31-0.1817.28-0.21 0.46-0.1029.99-76.36-88.84Heart RateVoltage
+Time StampC Craw-0.02 0.12-1.30-0.08 0.24-0.10-15.8828.25-39.57Heart RateVoltage
+Time StampD Ford-1.84 0.3417.11-0.19 0.46-0.1137.20-34.79-113.93Heart RateVoltage
+Time StampC Craw-0.14-0.87-0.12-0.07 0.24-0.09-34.98 2.72-8.55Heart RateVoltage
+Time StampD Ford 1.73-0.67 8.49-0.19 0.45-0.11-3.71-39.44-110.81Heart RateVoltage
+Time StampC Craw 0.40-0.50 1.59-0.08 0.23-0.09-41.79-13.42-0.44Heart RateVoltage
+Time StampD Ford 2.08-0.37 3.34-0.19 0.44-0.1116.91-44.61-90.86Heart RateVoltage
+Time StampC Craw 0.95-0.93 1.95-0.09 0.21-0.09-43.73-24.10 8.31Heart RateVoltage
+Time StampD Ford 0.18-0.87 5.24-0.20 0.45-0.1061.36-46.06-69.10Heart RateVoltage
+Time StampC Craw-2.92-1.2311.07-0.09 0.20-0.08-21.12-55.0111.55Heart RateVoltage
+Time StampD Ford 1.42-0.97 5.92-0.20 0.45-0.0949.74-32.17-42.58Heart RateVoltage
+Time StampC Craw 2.61-1.88 8.59-0.10 0.20-0.08-27.70-52.3810.97Heart RateVoltage
+Time StampD Ford 1.61 0.90 4.88-0.21 0.46-0.0825.35-6.76-26.26Heart RateVoltage
+Time StampC Craw-1.99-0.93 7.55-0.11 0.19-0.07-24.16-58.3414.04Heart RateVoltage
+Time StampD Ford 2.39 1.43 2.38-0.21 0.46-0.09-8.55-27.61-17.85Heart RateVoltage
+Time StampC Craw-4.75-1.1112.38-0.12 0.19-0.07-34.50-111.3517.13Heart RateVoltage
+Time StampD Ford 2.87 0.66 3.87-0.21 0.46-0.08-25.46-36.05-12.46Heart RateVoltage
+Time StampC Craw-5.98-0.9919.60-0.15 0.18-0.05-31.70-127.2940.34Heart RateVoltage
+Time StampD Ford 2.24-0.71 6.20-0.22 0.46-0.09-21.83-35.50 3.16Heart RateVoltage
+Time StampC Craw-2.48 1.4019.60-0.18 0.18-0.04-17.07-102.7446.33Heart RateVoltage
+Time StampD Ford 0.90-1.9410.85-0.21 0.46-0.09 2.10-53.6323.20Heart RateVoltage
+Time StampC Craw-1.94 1.6119.60-0.19 0.18-0.04-2.29-85.5729.46Heart RateVoltage
+Time StampD Ford 0.52-1.3515.83-0.22 0.45-0.09-18.83-26.5053.80Heart RateVoltage
+Time StampC Craw-2.69 0.8017.02-0.21 0.18-0.03-3.46-92.8311.72Heart RateVoltage
+Time StampD Ford 0.68 0.1817.45-0.21 0.45-0.11-22.1713.2965.86Heart RateVoltage
+Time StampC Craw 0.55 2.7819.60-0.23 0.18-0.02-4.99-86.92-1.03Heart RateVoltage
+Time StampD Ford-0.50-1.8319.60-0.20 0.46-0.11-33.54 0.6743.75Heart RateVoltage
+Time StampC Craw 1.18 1.7619.60-0.24 0.18-0.0120.28-22.93-22.91Heart RateVoltage
+Time StampD Ford 1.38-2.0916.71-0.19 0.45-0.11-48.7821.1948.31Heart RateVoltage
+Time StampC Craw-1.68 1.0719.60-0.24 0.18-0.0031.4519.99-28.14Heart RateVoltage
+Time StampD Ford 0.90-2.6113.42-0.18 0.45-0.11 2.5125.5659.41Heart RateVoltage
+Time StampC Craw-3.19 2.2219.60-0.24 0.19-0.0123.45 4.58-30.14Heart RateVoltage
+Time StampD Ford 1.30-3.2711.21-0.17 0.45-0.1128.69-2.2780.31Heart RateVoltage
+Time StampC Craw-6.77 1.9519.60-0.24 0.19-0.0111.8310.89-38.07Heart RateVoltage
+Time StampD Ford-0.65-0.24 8.93-0.16 0.46-0.1244.60-33.1679.56Heart RateVoltage
+Time StampC Craw-8.67 1.7419.60-0.24 0.18-0.0118.8364.10-40.99Heart RateVoltage
+Time StampD Ford 0.06-0.47 8.37-0.16 0.47-0.1142.58-49.2163.77Heart RateVoltage
+Time StampC Craw-7.87 0.9719.60-0.23 0.19-0.0331.2884.51-40.25Heart RateVoltage
+Time StampD Ford-0.65-0.12 5.74-0.15 0.47-0.11 8.09-51.0145.56Heart RateVoltage
+Time StampC Craw-5.46-0.9516.13-0.22 0.19-0.0438.7157.93-19.37Heart RateVoltage
+Time StampD Ford-1.84-0.57 2.51-0.14 0.48-0.11-21.87-56.5331.09Heart RateVoltage
+Time StampC Craw-3.85-1.0415.20-0.22 0.20-0.0522.0815.11 6.66Heart RateVoltage
+Time StampD Ford-2.38 0.71 1.45-0.14 0.47-0.11-15.45-50.5626.05Heart RateVoltage
+Time StampC Craw-2.85-1.0914.02-0.22 0.20-0.0613.1819.3317.67Heart RateVoltage
+Time StampD Ford-1.91-0.26 0.94-0.14 0.47-0.12 6.77-30.0713.58Heart RateVoltage
+Time StampC Craw-2.51-1.0011.00-0.23 0.20-0.0614.2432.4823.74Heart RateVoltage
+Time StampD Ford-1.66 0.51 2.18-0.14 0.47-0.1127.59-15.51 4.04Heart RateVoltage
+Time StampC Craw-2.70-0.83 8.59-0.21 0.21-0.0712.0752.4131.76Heart RateVoltage
+Time StampD Ford-3.71-0.20 5.79-0.13 0.48-0.1111.80-19.80-9.95Heart RateVoltage
+Time StampC Craw-0.25-1.59 4.26-0.21 0.22-0.08 8.1561.0837.75Heart RateVoltage
+Time StampD Ford-4.78-0.23 8.81-0.13 0.47-0.11-34.55-21.02-33.56Heart RateVoltage
+Time StampC Craw 0.76-1.77 0.35-0.20 0.22-0.09-2.0267.6225.45Heart RateVoltage
+Time StampD Ford-4.83-2.2511.45-0.14 0.46-0.12-40.77-30.69-55.01Heart RateVoltage
+Time StampC Craw-0.08-2.07 0.54-0.19 0.23-0.10-15.5933.4414.70Heart RateVoltage
+Time StampD Ford-1.99-1.2411.98-0.13 0.45-0.12 6.83-27.91-70.53Heart RateVoltage
+Time StampC Craw 0.27-0.64 2.07-0.19 0.23-0.11-32.0320.6118.85Heart RateVoltage
+Time StampD Ford-4.58-0.6719.60-0.13 0.46-0.1280.93-56.66-92.60Heart RateVoltage
+Time StampC Craw-1.17-0.31 2.28-0.19 0.23-0.12-15.6073.1719.12Heart RateVoltage
+Time StampD Ford-3.94-2.6419.60-0.14 0.47-0.12-32.58-82.89-124.40Heart RateVoltage
+Time StampC Craw-1.26-0.42 0.15-0.19 0.24-0.13-11.6191.6124.40Heart RateVoltage
+Time StampD Ford-1.50-2.7318.24-0.16 0.46-0.12-75.72-105.20-124.76Heart RateVoltage
+Time StampC Craw-0.99-1.07-1.33-0.17 0.24-0.13-13.3586.1322.51Heart RateVoltage
+Time StampD Ford 1.02 0.1512.66-0.17 0.44-0.14-7.47-57.85-100.02Heart RateVoltage
+Time StampC Craw-1.15-1.02-0.83-0.15 0.24-0.14-15.2048.9124.13Heart RateVoltage
+Time StampD Ford 2.34 1.0910.11-0.18 0.44-0.1498.6616.04-80.82Heart RateVoltage
+Time StampC Craw-0.44-0.67 0.35-0.14 0.24-0.15-14.3745.8824.64Heart RateVoltage
+Time StampD Ford 0.16 3.29 8.81-0.17 0.45-0.13104.8431.44-75.75Heart RateVoltage
+Time StampC Craw-0.59-0.42 1.99-0.14 0.24-0.15-6.9970.8828.84Heart RateVoltage
+Time StampD Ford 1.66-1.40 9.44-0.16 0.46-0.1331.0514.27-72.40Heart RateVoltage
+Time StampC Craw-0.53-0.03 1.27-0.13 0.23-0.15-7.7680.3929.95Heart RateVoltage
+Time StampD Ford 2.99-1.89 1.55-0.16 0.46-0.13-3.2113.27-44.54Heart RateVoltage
+Time StampC Craw-0.52 0.18-1.33-0.11 0.24-0.18 2.6271.1428.62Heart RateVoltage
+Time StampD Ford 3.40-1.98 2.47-0.15 0.46-0.12-3.74-18.43-12.67Heart RateVoltage
+Time StampC Craw 0.23 0.09 0.83-0.09 0.25-0.17 2.8439.2334.54Heart RateVoltage
+Time StampD Ford 1.33 1.45-2.51-0.14 0.45-0.14-41.28-32.31 9.22Heart RateVoltage
+Time StampC Craw-1.11 0.43 2.58-0.09 0.25-0.18-10.8012.5332.31Heart RateVoltage
+Time StampD Ford 2.13-0.23 6.27-0.14 0.45-0.13-58.28-82.4420.81Heart RateVoltage
+Time StampC Craw-1.04 1.20 2.42-0.08 0.24-0.16-0.7515.2212.50Heart RateVoltage
+Time StampD Ford 3.18 1.60 7.19-0.15 0.45-0.15-46.15-49.7329.91Heart RateVoltage
+Time StampC Craw 0.24 1.62 1.31-0.08 0.25-0.16-1.8316.61 4.34Heart RateVoltage
+Time StampD Ford 1.86-1.54 8.58-0.14 0.44-0.15-56.01-38.3837.17Heart RateVoltage
+Time StampC Craw 2.35 1.16-1.58-0.08 0.25-0.17-0.5424.23 2.67Heart RateVoltage
+Time StampD Ford 2.40-1.4611.23-0.14 0.43-0.15-50.61-33.1870.37Heart RateVoltage
+Time StampC Craw 4.96 0.54-1.40-0.08 0.25-0.1419.17-28.88 7.26Heart RateVoltage
+Time StampD Ford 3.21-1.5916.46-0.14 0.43-0.15-42.49-2.0691.71Heart RateVoltage
+Time StampC Craw 1.46 0.38 1.32-0.08 0.25-0.14-4.37-176.41-14.77Heart RateVoltage
+Time StampD Ford 3.15-2.6218.01-0.12 0.43-0.16-1.9826.92105.46Heart RateVoltage
+Time StampC Craw 3.04 0.74-0.97-0.10 0.25-0.1321.67-101.04-10.89Heart RateVoltage
+Time StampD Ford 3.48-1.6417.93-0.10 0.43-0.17-22.3011.15103.57Heart RateVoltage
+Time StampC Craw-3.20 1.31 7.86-0.12 0.26-0.12-7.98-58.0920.95Heart RateVoltage
+Time StampD Ford 1.80-1.5112.39-0.09 0.43-0.16-48.16-28.4490.50Heart RateVoltage
+Time StampC Craw-2.71 0.22 6.96-0.13 0.26-0.09-3.61-61.5120.32Heart RateVoltage
+Time StampD Ford-0.30-0.4710.86-0.07 0.43-0.17-9.00-38.0488.34Heart RateVoltage
+Time StampC Craw-4.19 0.0012.10-0.15 0.26-0.07 3.72-98.7437.56Heart RateVoltage
+Time StampD Ford-2.14 0.31 9.88-0.07 0.42-0.1735.03-21.7787.66Heart RateVoltage
+Time StampC Craw-4.37 0.4119.60-0.16 0.25-0.0410.87-134.0144.27Heart RateVoltage
+Time StampD Ford-2.03 0.39 8.69-0.07 0.43-0.1739.36-3.7581.74Heart RateVoltage
+Time StampC Craw-3.94-0.0119.59-0.18 0.25-0.03-9.67-63.0132.76Heart RateVoltage
+Time StampD Ford-1.41 0.45 7.08-0.06 0.44-0.16-2.29-16.8466.57Heart RateVoltage
+Time StampC Craw-6.29-1.0514.20-0.18 0.25-0.02-47.11-14.2129.73Heart RateVoltage
+Time StampD Ford-2.03 0.65 2.33-0.05 0.44-0.16-21.39-37.6347.73Heart RateVoltage
+Time StampC Craw-6.73-0.1819.60-0.18 0.24-0.01-56.43-71.8948.73Heart RateVoltage
+Time StampD Ford-1.93-0.25 0.90-0.04 0.44-0.1740.71-46.4531.20Heart RateVoltage
+Time StampC Craw-3.91 2.8519.60-0.19 0.24 0.0114.89-90.1444.63Heart RateVoltage
+Time StampD Ford-2.86-1.66 5.89-0.05 0.44-0.1669.44-46.5034.48Heart RateVoltage
+Time StampC Craw-6.19-2.4819.60-0.20 0.24 0.0151.97-38.2812.53Heart RateVoltage
+Time StampD Ford-2.53 0.52 5.61-0.06 0.46-0.1644.76-28.0427.48Heart RateVoltage
+Time StampC Craw-9.09-1.4819.42-0.21 0.25 0.0143.48-86.65-3.18Heart RateVoltage
+Time StampD Ford-2.72 0.76 4.54-0.05 0.47-0.1418.17-35.16 9.60Heart RateVoltage
+Time StampC Craw-6.02 3.1019.60-0.22 0.26 0.0220.44-157.3419.72Heart RateVoltage
+Time StampD Ford-3.67-0.54 5.37-0.05 0.47-0.14-8.18-56.22-12.24Heart RateVoltage
+Time StampC Craw-3.94 1.5619.60-0.25 0.26 0.0516.36-149.6523.09Heart RateVoltage
+Time StampD Ford-3.78-1.1110.29-0.06 0.46-0.13-6.84-69.08-32.02Heart RateVoltage
+Time StampC Craw-1.18-0.3819.60-0.26 0.27 0.0729.37-100.9012.84Heart RateVoltage
+Time StampD Ford-5.33-1.7117.21-0.07 0.47-0.13-21.03-56.19-48.94Heart RateVoltage
+Time StampC Craw 0.87-0.7519.60-0.26 0.27 0.0635.09-51.08 5.22Heart RateVoltage
+Time StampD Ford-3.85-0.1216.33-0.07 0.46-0.14-76.63-44.34-72.70Heart RateVoltage
+Time StampC Craw 2.22-1.6415.75-0.26 0.28 0.0831.37-0.97-0.47Heart RateVoltage
+Time StampD Ford-2.06 0.6215.61-0.08 0.45-0.14 9.45-64.06-111.78Heart RateVoltage
+Time StampC Craw 2.45-1.76 9.01-0.27 0.28 0.0829.36 1.55-0.62Heart RateVoltage
+Time StampD Ford-3.81-1.5819.60-0.09 0.45-0.1348.57-99.31-137.72Heart RateVoltage
+Time StampC Craw 2.52-1.08 8.76-0.27 0.29 0.0632.76-17.70 7.43Heart RateVoltage
+Time StampD Ford-3.92-2.6819.60-0.11 0.46-0.13 1.14-82.86-131.26Heart RateVoltage
+Time StampC Craw 1.86 0.3311.66-0.26 0.28 0.0712.56 5.23 5.99Heart RateVoltage
+Time StampD Ford-0.66-0.5116.49-0.13 0.46-0.1131.05-33.39-108.44Heart RateVoltage
+Time StampC Craw 0.38 0.2710.10-0.27 0.30 0.07 2.9541.28 4.97Heart RateVoltage
+Time StampD Ford 1.42 1.06 9.78-0.14 0.47-0.1352.48-2.86-88.05Heart RateVoltage
+Time StampC Craw 0.64-0.46 9.21-0.27 0.30 0.06-0.6557.28 4.40Heart RateVoltage
+Time StampD Ford 2.54 0.83 6.53-0.16 0.47-0.1141.83-11.09-79.07Heart RateVoltage
+Time StampC Craw-0.94 0.66 9.25-0.26 0.30 0.05-3.0253.6813.90Heart RateVoltage
+Time StampD Ford 2.50 0.25 4.71-0.16 0.47-0.1221.42-31.73-70.94Heart RateVoltage
+Time StampC Craw-1.62 0.74 9.55-0.25 0.30 0.04 3.3956.4614.22Heart RateVoltage
+Time StampD Ford 2.95 0.16 3.67-0.17 0.47-0.11 5.42-43.50-59.99Heart RateVoltage
+Time StampC Craw-2.31-0.9812.71-0.25 0.30 0.03 1.2481.66 7.06Heart RateVoltage
+Time StampD Ford 2.03-0.66 3.68-0.18 0.48-0.10-20.41-50.38-36.72Heart RateVoltage
+Time StampC Craw-1.95-2.6011.72-0.23 0.30 0.0311.10113.32-11.60Heart RateVoltage
+Time StampD Ford 1.39 0.27 2.38-0.18 0.47-0.11-27.60-36.81-14.96Heart RateVoltage
+Time StampC Craw-1.46-1.45 9.12-0.22 0.31-0.00-0.5791.53-8.09Heart RateVoltage
+Time StampD Ford 1.74 0.25 1.48-0.18 0.46-0.11-9.92-27.57 1.81Heart RateVoltage
+Time StampC Craw-4.32 0.1115.40-0.22 0.30-0.01-31.1180.74-8.51Heart RateVoltage
+Time StampD Ford 3.18-0.08 3.06-0.18 0.46-0.12 2.92-27.1918.70Heart RateVoltage
+Time StampC Craw-6.66-0.2014.28-0.21 0.30-0.01-27.7385.94-4.24Heart RateVoltage
+Time StampD Ford 2.49-1.49 8.33-0.18 0.45-0.1110.89-31.0940.95Heart RateVoltage
+Time StampC Craw-5.66-0.8213.85-0.18 0.30-0.03-5.5898.62 9.84Heart RateVoltage
+Time StampD Ford 3.52-2.9814.20-0.18 0.47-0.1222.88-41.1268.53Heart RateVoltage
+Time StampC Craw-4.49-1.1411.79-0.18 0.30-0.0211.7286.1433.08Heart RateVoltage
+Time StampD Ford 4.39-3.0119.60-0.18 0.47-0.11-35.79-34.64101.78Heart RateVoltage
+Time StampC Craw-3.83-1.72 8.19-0.17 0.31-0.0520.7272.9046.24Heart RateVoltage
+Time StampD Ford 1.51-2.2719.60-0.16 0.47-0.13-52.48-27.55118.92Heart RateVoltage
+Time StampC Craw-3.18-0.75 5.52-0.15 0.31-0.0624.3350.5145.43Heart RateVoltage
+Time StampD Ford 0.92-1.8619.60-0.16 0.47-0.13-82.5012.01114.87Heart RateVoltage
+Time StampC Craw-3.32-2.08 7.25-0.15 0.32-0.0628.6837.2049.27Heart RateVoltage
+Time StampD Ford 1.25-0.7012.81-0.15 0.45-0.13-77.0923.38106.50Heart RateVoltage
+Time StampC Craw-1.70-0.51 9.23-0.14 0.33-0.0740.6151.2452.88Heart RateVoltage
+Time StampD Ford 0.33-0.9210.82-0.13 0.45-0.15-39.14-6.16102.38Heart RateVoltage
+Time StampC Craw-1.51 0.31 9.88-0.13 0.35-0.0765.9582.0042.25Heart RateVoltage
+Time StampD Ford-1.84 0.93 9.04-0.12 0.44-0.15-22.49-13.4693.17Heart RateVoltage
+Time StampC Craw-0.66 1.34 5.65-0.11 0.36-0.0878.1696.5143.88Heart RateVoltage
+Time StampD Ford-2.47 0.90 6.40-0.10 0.45-0.16 6.99 3.7882.42Heart RateVoltage
+Time StampC Craw 0.33 1.02-0.00-0.10 0.37-0.0863.5079.9453.70Heart RateVoltage
+Time StampD Ford-1.86 1.28 3.21-0.09 0.45-0.1524.00 4.0668.82Heart RateVoltage
+Time StampC Craw 1.69-0.19-1.45-0.08 0.39-0.0962.5129.6642.29Heart RateVoltage
+Time StampD Ford-1.75 0.31 1.76-0.08 0.45-0.1525.35-20.4050.16Heart RateVoltage
+Time StampC Craw 3.20-1.57-0.21-0.09 0.40-0.0837.87-85.1136.28Heart RateVoltage
+Time StampD Ford-1.93-0.57 2.81-0.07 0.45-0.1517.21-43.1030.91Heart RateVoltage
+Time StampC Craw 1.76-0.18 3.47-0.10 0.41-0.08-66.66-176.6332.21Heart RateVoltage
+Time StampD Ford-2.97-0.35 2.00-0.08 0.46-0.1412.46-47.2115.57Heart RateVoltage
+Time StampC Craw 3.55-1.06 7.62-0.12 0.40-0.06-47.29-76.06-16.55Heart RateVoltage
+Time StampD Ford-3.10-0.62 1.46-0.07 0.46-0.1430.49-39.65 0.88Heart RateVoltage
+Time StampC Craw-1.02-0.79 5.15-0.12 0.40-0.07-32.0523.16-44.83Heart RateVoltage
+Time StampD Ford-4.23-0.87 2.55-0.07 0.47-0.1462.72-35.94-7.80Heart RateVoltage
+Time StampC Craw-1.08-0.44 1.47-0.13 0.39-0.07-38.9652.02-57.17Heart RateVoltage
+Time StampD Ford-5.60-0.24 6.53-0.08 0.47-0.1353.88-44.63-22.41Heart RateVoltage
+Time StampC Craw 0.25-1.82-0.49-0.11 0.38-0.08-51.9257.92-16.25Heart RateVoltage
+Time StampD Ford-4.94-0.7211.66-0.08 0.48-0.12 9.98-66.23-49.09Heart RateVoltage
+Time StampC Craw 0.72-1.69-1.42-0.10 0.37-0.08-55.6253.74-11.53Heart RateVoltage
+Time StampD Ford-5.26 0.2614.14-0.09 0.48-0.12-19.45-52.16-77.29Heart RateVoltage
+Time StampC Craw 0.73-1.65 1.20-0.10 0.36-0.08-47.58-24.2520.24Heart RateVoltage
+Time StampD Ford-3.24 0.2715.85-0.11 0.47-0.1227.59-30.20-119.46Heart RateVoltage
+Time StampC Craw-1.64-2.49 4.56-0.10 0.35-0.09 5.43-86.3940.23Heart RateVoltage
+Time StampD Ford-4.23-4.0219.60-0.11 0.47-0.1167.83-42.62-142.47Heart RateVoltage
+Time StampC Craw 0.02-0.40 1.74-0.11 0.35-0.0715.72-48.2737.57Heart RateVoltage
+Time StampD Ford-3.87-4.4019.60-0.13 0.47-0.1122.02-68.51-147.79Heart RateVoltage
+Time StampC Craw-0.07-1.26 0.78-0.12 0.35-0.0713.87-20.2136.68Heart RateVoltage
+Time StampD Ford-1.85-4.4519.60-0.14 0.47-0.12-12.85-74.58-130.79Heart RateVoltage
+Time StampC Craw 1.63-0.20 0.25-0.12 0.35-0.07 4.3217.3927.00Heart RateVoltage
+Time StampD Ford 0.89-1.1813.37-0.16 0.46-0.10-12.23-39.62-105.35Heart RateVoltage
+Time StampC Craw 0.63-2.04-0.02-0.12 0.35-0.06 0.90-28.5424.37Heart RateVoltage
+Time StampD Ford 2.72 0.04 7.82-0.17 0.45-0.1113.69-20.09-86.35Heart RateVoltage
+Time StampC Craw-0.22-1.09 2.30-0.13 0.36-0.0724.65-77.8438.60Heart RateVoltage
+Time StampD Ford 3.18-0.28 4.96-0.17 0.44-0.1129.45-22.32-73.22Heart RateVoltage
+Time StampC Craw-1.49 0.47 5.51-0.13 0.35-0.0512.98-102.0812.15Heart RateVoltage
+Time StampD Ford 3.58-0.05 3.63-0.17 0.45-0.1127.11-42.73-67.93Heart RateVoltage
+Time StampC Craw-1.35-0.29 4.09-0.16 0.35-0.0413.77-87.58-0.27Heart RateVoltage
+Time StampD Ford 3.45-0.22 4.37-0.18 0.45-0.0935.98-55.76-65.14Heart RateVoltage
+Time StampC Craw-1.09 0.22 5.45-0.17 0.35-0.04-1.44-92.70 4.47Heart RateVoltage
+Time StampD Ford 2.58 0.01 5.48-0.18 0.45-0.09 7.43-52.10-50.40Heart RateVoltage
+Time StampC Craw-3.66-0.40 9.84-0.18 0.35-0.04-14.11-91.81 1.96Heart RateVoltage
+Time StampD Ford 1.05 0.72 4.25-0.19 0.44-0.10-33.50-36.80-28.05Heart RateVoltage
+Time StampC Craw-2.82 0.6510.05-0.20 0.34-0.02-12.93-148.82-5.73Heart RateVoltage
+Time StampD Ford 2.38 0.46 2.96-0.18 0.43-0.10-29.46-19.95-10.53Heart RateVoltage
+Time StampC Craw-6.37-0.2012.87-0.22 0.34-0.01-13.57-154.9813.02Heart RateVoltage
+Time StampD Ford 3.78-0.69 4.01-0.18 0.42-0.10-14.58-23.8115.65Heart RateVoltage
+Time StampC Craw-8.20-0.5419.60-0.25 0.33 0.01 5.47-162.08-3.61Heart RateVoltage
+Time StampD Ford 3.70-2.6410.36-0.18 0.41-0.10-11.73-37.2343.70Heart RateVoltage
+Time StampC Craw-6.75 0.7015.94-0.27 0.33 0.03-28.95-115.37-13.46Heart RateVoltage
+Time StampD Ford 3.98-3.4213.58-0.18 0.41-0.10-58.97-41.9088.84Heart RateVoltage
+Time StampC Craw-11.19 1.5910.64-0.29 0.32 0.04-63.90-61.92-17.60Heart RateVoltage
+Time StampD Ford 3.81-1.2214.15-0.17 0.41-0.09-109.22-35.02129.04Heart RateVoltage
+Time StampC Craw-9.59-0.6619.22-0.30 0.32 0.05-87.01-106.5910.52Heart RateVoltage
+Time StampD Ford 3.20 0.4211.69-0.16 0.39-0.10-53.94-25.88139.26Heart RateVoltage
+Time StampC Craw-8.79-1.2919.60-0.31 0.31 0.06-66.26-183.38 9.23Heart RateVoltage
+Time StampD Ford 2.28-3.9619.60-0.14 0.39-0.1011.63-28.16125.63Heart RateVoltage
+Time StampC Craw-11.64-0.3119.60-0.32 0.31 0.09-62.77-60.65 0.60Heart RateVoltage
+Time StampD Ford-0.12-3.1919.60-0.14 0.40-0.09-43.0810.59115.32Heart RateVoltage
+Time StampC Craw-6.57 0.3619.60-0.33 0.31 0.09-20.2244.7314.92Heart RateVoltage
+Time StampD Ford-0.19-2.9713.72-0.12 0.39-0.09-52.2412.56106.37Heart RateVoltage
+Time StampC Craw-8.26-0.6919.60-0.34 0.31 0.10 2.8464.93 8.90Heart RateVoltage
+Time StampD Ford-2.40-0.73 8.71-0.11 0.39-0.10-43.03-8.43102.05Heart RateVoltage
+Time StampC Craw-10.50-2.7419.60-0.33 0.31 0.09 4.2974.79 1.29Heart RateVoltage
+Time StampD Ford-3.99-0.64 7.12-0.09 0.38-0.09-12.26-16.6797.10Heart RateVoltage
+Time StampC Craw-7.54-1.4019.60-0.32 0.31 0.0919.9128.22 0.69Heart RateVoltage
+Time StampD Ford-4.23-0.87 7.14-0.08 0.39-0.10 9.18-11.2195.68Heart RateVoltage
+Time StampC Craw-4.42-1.0718.88-0.32 0.31 0.0843.4417.69-21.54Heart RateVoltage
+Time StampD Ford-3.29 0.38 4.64-0.07 0.38-0.1116.80 4.2578.37Heart RateVoltage
+Time StampC Craw-2.82 0.6515.03-0.31 0.32 0.0668.5059.64-53.96Heart RateVoltage
+Time StampD Ford-3.32 0.34 1.41-0.05 0.39-0.0921.97-6.7152.04Heart RateVoltage
+Time StampC Craw-1.89 2.3810.67-0.31 0.32 0.0565.5270.31-82.46Heart RateVoltage
+Time StampD Ford-2.98 0.50 0.17-0.05 0.39-0.0933.83-35.4436.41Heart RateVoltage
+Time StampC Craw-2.10 3.14 8.03-0.30 0.32 0.0449.5654.22-84.73Heart RateVoltage
+Time StampD Ford-5.78 0.33 0.58-0.04 0.40-0.0973.49-54.71 7.64Heart RateVoltage
+Time StampC Craw-1.50 2.97 5.84-0.29 0.32 0.0247.9923.03-70.48Heart RateVoltage
+Time StampD Ford-4.55 0.04 5.37-0.03 0.41-0.0875.38-46.91-13.24Heart RateVoltage
+Time StampC Craw-0.50 2.43 4.08-0.29 0.32 0.0354.5726.30-65.84Heart RateVoltage
+Time StampD Ford-6.61 1.37 7.67-0.03 0.43-0.0935.05-41.90-31.64Heart RateVoltage
+Time StampC Craw 0.28 2.18 3.17-0.28 0.32 0.0166.6623.25-82.91Heart RateVoltage
+Time StampD Ford-6.27 0.50 7.11-0.03 0.45-0.09 6.28-22.85-58.60Heart RateVoltage
+Time StampC Craw 0.34 2.79 4.76-0.28 0.32 0.0285.3038.90-91.11Heart RateVoltage
+Time StampD Ford-5.34 0.0412.01-0.03 0.45-0.09-25.20-46.44-78.81Heart RateVoltage
+Time StampC Craw-0.18 4.77 4.44-0.26 0.32 0.0292.5078.23-104.10Heart RateVoltage
+Time StampD Ford-4.77 1.9314.39-0.04 0.46-0.11-35.52-56.15-99.50Heart RateVoltage
+Time StampC Craw-1.83 3.74 3.92-0.26 0.32-0.0197.42114.33-111.98Heart RateVoltage
+Time StampD Ford-3.90 0.0019.40-0.06 0.47-0.1235.21-91.91-134.55Heart RateVoltage
+Time StampC Craw-1.69 4.07 2.13-0.24 0.32-0.0288.05129.42-114.28Heart RateVoltage
+Time StampD Ford-5.63-2.4119.60-0.08 0.48-0.1225.50-74.43-149.84Heart RateVoltage
+Time StampC Craw-1.10 3.46 2.01-0.23 0.33-0.0353.44110.38-114.07Heart RateVoltage
+Time StampD Ford-4.06-4.0419.60-0.11 0.48-0.13-19.02-46.89-148.48Heart RateVoltage
+Time StampC Craw-1.43 3.58 3.62-0.22 0.32-0.0325.9874.01-117.21Heart RateVoltage
+Time StampD Ford-1.10-2.6215.55-0.14 0.47-0.13-18.61-19.75-125.62Heart RateVoltage
+Time StampC Craw-2.88 4.86 7.62-0.21 0.31-0.0427.2968.18-135.70Heart RateVoltage
+Time StampD Ford 1.74-0.85 8.79-0.15 0.46-0.14-4.25-21.10-107.57Heart RateVoltage
+Time StampC Craw-4.00 4.9310.20-0.19 0.30-0.0530.77107.28-149.57Heart RateVoltage
+Time StampD Ford 2.53-0.21 5.73-0.16 0.46-0.1426.57-35.87-94.96Heart RateVoltage
+Time StampC Craw-4.75 5.35 7.95-0.18 0.28-0.0631.3896.43-134.95Heart RateVoltage
+Time StampD Ford 3.01-0.19 4.75-0.16 0.45-0.1243.30-42.85-86.12Heart RateVoltage
+Time StampC Craw-3.54 3.83 7.41-0.16 0.28-0.0713.6948.34-141.21Heart RateVoltage
+Time StampD Ford 3.04-0.08 3.68-0.20 0.47-0.1216.26-39.45-60.38Heart RateVoltage
+Time StampC Craw-2.96 3.26 9.34-0.15 0.27-0.06-22.2331.40-169.93Heart RateVoltage
+Time StampC Craw-3.69 3.3311.83-0.14 0.25-0.06-34.5125.04-202.44Heart RateVoltage
+Time StampD Ford 3.14 0.45 3.52-0.22 0.46-0.11 0.26-38.43-49.16Heart RateVoltage
+Time StampC Craw-5.69 5.0714.24-0.14 0.23-0.07-33.3540.17-234.18Heart RateVoltage
+Time StampD Ford 2.65 0.20 3.58-0.22 0.45-0.10-1.07-12.88-25.24Heart RateVoltage
+Time StampC Craw-6.33 4.9216.22-0.12 0.20-0.07-24.6656.03-254.19Heart RateVoltage
+Time StampD Ford 3.32 1.45 3.77-0.22 0.46-0.1012.70 1.37-3.14Heart RateVoltage
+Time StampC Craw-7.41 4.4115.72-0.09 0.19-0.08-6.1362.37-275.21Heart RateVoltage
+Time StampD Ford 3.79-0.09 5.79-0.22 0.46-0.11-4.56-10.3413.34Heart RateVoltage
+Time StampC Craw-9.36 5.6413.68-0.07 0.18-0.0614.6042.99-283.11Heart RateVoltage
+Time StampD Ford 3.40-1.25 9.72-0.23 0.45-0.10-25.90-35.3834.40Heart RateVoltage
+Time StampC Craw-9.97 4.1812.67-0.05 0.17-0.08 4.3140.60-285.09Heart RateVoltage
+Time StampD Ford 2.15-2.5814.15-0.22 0.45-0.09-12.65-41.2771.43Heart RateVoltage
+Time StampC Craw-12.09 5.5516.30-0.03 0.17-0.06-21.7058.47-286.72Heart RateVoltage
+Time StampD Ford 1.11-3.1816.26-0.22 0.45-0.1031.54-24.7690.24Heart RateVoltage
+Time StampC Craw-12.60 6.3418.24-0.00 0.16-0.07-3.9365.24-286.72Heart RateVoltage
+Time StampD Ford 0.78-5.4919.60-0.22 0.47-0.0917.53-9.45100.85Heart RateVoltage
+Time StampC Craw-12.03 4.1114.76 0.03 0.16-0.0715.6839.98-272.13Heart RateVoltage
+Time StampD Ford 1.68-3.1217.49-0.20 0.47-0.09-66.8210.87102.68Heart RateVoltage
+Time StampC Craw-10.11 2.0811.75 0.05 0.16-0.06 1.8936.33-270.81Heart RateVoltage
+Time StampD Ford 1.39-2.7112.05-0.19 0.46-0.09-40.78-16.11101.82Heart RateVoltage
+Time StampC Craw-8.75 1.64 8.62 0.07 0.17-0.08-19.9946.15-275.25Heart RateVoltage
+Time StampD Ford-0.50-1.1910.38-0.18 0.46-0.1014.34-22.62101.65Heart RateVoltage
+Time StampC Craw-8.10 1.31 7.03 0.09 0.18-0.07-37.1943.31-272.42Heart RateVoltage
+Time StampD Ford-2.22-0.61 9.09-0.17 0.47-0.1037.12-28.0596.06Heart RateVoltage
+Time StampC Craw-8.16 0.98 7.12 0.10 0.18-0.06-45.2637.42-265.28Heart RateVoltage
+Time StampD Ford-2.70-0.02 7.70-0.16 0.48-0.0910.59-23.6386.63Heart RateVoltage
+Time StampC Craw-8.79-0.12 6.88 0.13 0.18-0.07-51.7439.89-258.49Heart RateVoltage
+Time StampD Ford-2.81-0.26 4.86-0.15 0.49-0.09-15.78-30.8669.19Heart RateVoltage
+Time StampC Craw-9.06-0.14 6.96 0.15 0.18-0.05-56.8740.42-248.14Heart RateVoltage
+Time StampD Ford-2.97 0.14 2.71-0.14 0.49-0.10-24.67-34.7552.79Heart RateVoltage
+Time StampC Craw-8.31-0.04 7.88 0.16 0.19-0.06-45.0745.06-240.98Heart RateVoltage
+Time StampD Ford-3.33 0.89 3.18-0.14 0.49-0.11-24.77-36.3734.51Heart RateVoltage
+Time StampC Craw-8.35 0.55 8.55 0.18 0.20-0.05-32.9265.92-242.33Heart RateVoltage
+Time StampD Ford-3.97 0.57 1.97-0.14 0.49-0.10-15.23-12.5220.64Heart RateVoltage
+Time StampC Craw-7.35 1.62 7.37 0.20 0.21-0.05-24.7574.87-252.62Heart RateVoltage
+Time StampD Ford-4.11 1.00 2.24-0.13 0.49-0.0927.79-10.0010.87Heart RateVoltage
+Time StampC Craw-8.75 3.08 8.03 0.21 0.23-0.04-27.8763.76-263.53Heart RateVoltage
+Time StampD Ford-5.10 0.86 5.26-0.12 0.49-0.0922.43-26.45-11.19Heart RateVoltage
+Time StampC Craw-9.48 4.52 9.73 0.24 0.25-0.04-23.8747.22-270.30Heart RateVoltage
+Time StampD Ford-5.66 0.65 9.12-0.13 0.49-0.10 9.87-45.56-43.92Heart RateVoltage
+Time StampC Craw-9.15 5.6511.26 0.24 0.27-0.03-16.7230.56-271.86Heart RateVoltage
+Time StampD Ford-6.55 0.1016.41-0.13 0.50-0.08-21.08-48.59-74.92Heart RateVoltage
+Time StampC Craw-10.68 4.6911.49 0.24 0.30-0.04-21.1629.42-275.61Heart RateVoltage
+Time StampD Ford-4.00-0.3214.96-0.14 0.49-0.10-46.85-43.68-103.64Heart RateVoltage
+Time StampC Craw-11.85 3.1411.50 0.25 0.32-0.04-42.3123.06-281.04Heart RateVoltage
+Time StampD Ford-4.22-2.2019.60-0.15 0.48-0.09-4.63-67.88-120.31Heart RateVoltage
+Time StampC Craw-10.12 1.5112.14 0.25 0.34-0.04-59.3310.95-286.72Heart RateVoltage
+Time StampD Ford-3.48-2.9019.60-0.16 0.48-0.10-27.05-74.71-122.56Heart RateVoltage
+Time StampC Craw-10.26 0.7112.10 0.23 0.38-0.04-61.42-7.23-277.07Heart RateVoltage
+Time StampD Ford-0.71-1.5616.97-0.18 0.47-0.10-38.15-85.41-112.27Heart RateVoltage
+Time StampC Craw-10.22 0.1211.34 0.22 0.39-0.05-70.99-20.68-261.74Heart RateVoltage
+Time StampD Ford 1.77 0.8112.56-0.19 0.45-0.09 6.07-76.68-100.31Heart RateVoltage
+Time StampC Craw-9.09 0.3011.46 0.20 0.41-0.06-75.72-17.60-260.64Heart RateVoltage
+Time StampD Ford 2.48 1.46 9.84-0.21 0.45-0.0857.47-67.72-93.93Heart RateVoltage
+Time StampC Craw-7.16 0.7412.08 0.18 0.42-0.06-69.33 9.81-262.56Heart RateVoltage
+Time StampD Ford 1.94 1.09 8.35-0.21 0.46-0.0765.57-61.59-89.96Heart RateVoltage
+Time StampC Craw-6.41 0.8112.09 0.17 0.43-0.08-63.4217.82-259.71Heart RateVoltage
+Time StampD Ford 1.25 0.44 7.01-0.23 0.46-0.0836.28-62.12-82.80Heart RateVoltage
+Time StampC Craw-5.88 0.8813.91 0.15 0.44-0.06-55.40-10.08-264.49Heart RateVoltage
+Time StampD Ford 1.03 0.14 5.95-0.24 0.46-0.08-1.58-55.06-71.80Heart RateVoltage
+Time StampC Craw-7.23 0.3816.45 0.12 0.46-0.07-40.72-49.44-269.74Heart RateVoltage
+Time StampD Ford 2.73-0.59 4.75-0.24 0.45-0.07-17.70-19.23-52.97Heart RateVoltage
+Time StampC Craw-9.66-0.4218.90 0.09 0.46-0.08-25.14-47.59-273.22Heart RateVoltage
+Time StampD Ford 3.84 0.12 1.43-0.24 0.45-0.07 8.4023.65-30.06Heart RateVoltage
+Time StampC Craw-8.98-1.4018.48 0.06 0.47-0.06-7.37-25.97-276.76Heart RateVoltage
+Time StampD Ford 4.54 0.16 0.63-0.24 0.44-0.0724.7320.10-5.20Heart RateVoltage
+Time StampC Craw-8.52-2.0314.34 0.03 0.49-0.09-3.74-26.22-280.25Heart RateVoltage
+Time StampD Ford 5.49-0.56 2.72-0.23 0.44-0.0738.81 5.2721.62Heart RateVoltage
+Time StampC Craw-8.83-2.1111.03-0.00 0.48-0.08-13.04-32.64-286.72Heart RateVoltage
+Time StampD Ford 5.59-2.1611.91-0.22 0.45-0.0831.26-27.7449.77Heart RateVoltage
+Time StampC Craw-8.98-2.45 9.61-0.04 0.48-0.07-16.75-34.04-286.72Heart RateVoltage
+Time StampD Ford 4.11-1.7117.99-0.22 0.46-0.07-33.50-9.6873.38Heart RateVoltage
+Time StampC Craw-8.89-3.67 8.58-0.07 0.48-0.07-7.80-33.17-277.08Heart RateVoltage
+Time StampD Ford 2.77-2.2513.83-0.21 0.46-0.09-57.9411.2793.54Heart RateVoltage
+Time StampC Craw-7.42-3.22 7.04-0.11 0.46-0.07 1.02-30.56-255.74Heart RateVoltage
+Time StampD Ford 2.88-2.8318.80-0.19 0.45-0.09 4.56-27.58108.03Heart RateVoltage
+Time StampC Craw-6.32-2.91 5.43-0.13 0.45-0.08 8.02-35.66-241.61Heart RateVoltage
+Time StampD Ford 1.97-2.9019.60-0.18 0.46-0.09-34.06-15.06116.24Heart RateVoltage
+Time StampC Craw-4.90-1.69 4.41-0.14 0.43-0.0818.84-32.19-228.11Heart RateVoltage
+Time StampD Ford 1.00-2.7218.00-0.17 0.47-0.08-58.37-6.32119.88Heart RateVoltage
+Time StampC Craw-4.20-0.26 4.08-0.16 0.42-0.0729.70-12.64-216.32Heart RateVoltage
+Time StampD Ford 0.33-1.2314.08-0.16 0.47-0.09-39.68-26.96121.33Heart RateVoltage
+Time StampC Craw-3.78-0.20 4.23-0.18 0.40-0.0729.5812.04-210.24Heart RateVoltage
+Time StampD Ford-0.79 0.2710.30-0.14 0.47-0.10-23.97-42.04112.54Heart RateVoltage
+Time StampC Craw-4.41-2.46 3.27-0.18 0.39-0.0621.0120.01-199.02Heart RateVoltage
+Time StampD Ford-1.54 0.12 7.18-0.13 0.46-0.09-4.20-51.61104.32Heart RateVoltage
+Time StampC Craw-3.66-0.08 3.25-0.19 0.38-0.07 7.05-1.58-187.49Heart RateVoltage
+Time StampD Ford-2.12 0.75 3.71-0.13 0.48-0.09 8.29-66.6094.85Heart RateVoltage
+Time StampC Craw-3.96 1.19 4.03-0.20 0.36-0.07 0.20-12.14-189.49Heart RateVoltage
+Time StampD Ford-3.05 0.54 2.33-0.12 0.49-0.0911.18-80.3278.02Heart RateVoltage
+Time StampC Craw-3.39 0.66 5.08-0.20 0.35-0.05-0.60-21.50-182.93Heart RateVoltage
+Time StampD Ford-3.95 0.52 1.75-0.12 0.49-0.09 1.92-89.4749.44Heart RateVoltage
+Time StampC Craw-2.89 0.14 6.57-0.21 0.33-0.05 0.64-39.61-177.57Heart RateVoltage
+Time StampD Ford-3.46-0.82 3.17-0.13 0.49-0.08-0.57-71.6235.00Heart RateVoltage
+Time StampC Craw-2.24-0.2910.28-0.21 0.31-0.05-7.19-56.48-181.76Heart RateVoltage
+Time StampD Ford-4.62-0.03 2.35-0.12 0.50-0.0817.96-25.5032.67Heart RateVoltage
+Time StampC Craw-3.35-1.7513.88-0.22 0.29-0.05-3.15-100.49-148.47Heart RateVoltage
+Time StampD Ford-5.21 2.10 3.04-0.13 0.50-0.0821.41 3.9718.78Heart RateVoltage
+Time StampC Craw-2.57-3.4617.01-0.22 0.27-0.03-6.00-111.55-94.26Heart RateVoltage
+Time StampD Ford-5.27 1.31 2.92-0.12 0.51-0.08-5.98-1.23-10.47Heart RateVoltage
+Time StampC Craw-1.19-4.3019.60-0.24 0.26-0.02-23.85-71.52-69.31Heart RateVoltage
+Time StampD Ford-5.83-0.99 7.40-0.12 0.52-0.08-8.41-32.25-38.11Heart RateVoltage
+Time StampC Craw-3.32-4.5819.60-0.25 0.25-0.02-30.51-31.95-75.07Heart RateVoltage
+Time StampD Ford-4.97 0.1815.11-0.13 0.51-0.08-1.92-19.65-56.88Heart RateVoltage
+Time StampC Craw-1.99-2.6019.60-0.26 0.24 0.00-28.4914.26-90.38Heart RateVoltage
+Time StampD Ford-5.28 1.4112.57-0.13 0.51-0.08-2.52-15.78-83.91Heart RateVoltage
+Time StampC Craw-2.20-0.9819.60-0.25 0.22-0.00-19.6074.28-84.67Heart RateVoltage
+Time StampD Ford-4.56-0.9719.60-0.15 0.50-0.0985.35-55.13-128.52Heart RateVoltage
+Time StampC Craw-4.21 0.2519.60-0.24 0.21 0.00-1.6279.02-63.87Heart RateVoltage
+Time StampD Ford-4.16-5.4819.60-0.16 0.50-0.0930.61-56.55-148.01Heart RateVoltage
+Time StampC Craw-6.62 1.1419.60-0.23 0.20-0.0115.8556.98-53.10Heart RateVoltage
+Time StampD Ford-2.70-2.5418.70-0.19 0.50-0.09-50.98-42.48-140.46Heart RateVoltage
+Time StampC Craw-7.41-0.1219.60-0.22 0.20-0.0226.0252.27-56.61Heart RateVoltage
+Time StampD Ford 1.18-0.6512.59-0.20 0.47-0.10 1.60-13.16-124.43Heart RateVoltage
+Time StampC Craw-7.07 0.0118.22-0.20 0.20-0.0333.8365.07-55.86Heart RateVoltage
+Time StampD Ford 2.99 0.74 9.97-0.21 0.45-0.1154.25-11.20-111.26Heart RateVoltage
+Time StampC Craw-5.59 0.1312.87-0.20 0.20-0.0430.5060.38-51.77Heart RateVoltage
+Time StampD Ford 3.14 0.79 7.14-0.22 0.45-0.1051.98-36.20-106.07Heart RateVoltage
+Time StampC Craw-3.50-0.08 8.43-0.19 0.21-0.0321.5242.17-45.66Heart RateVoltage
+Time StampD Ford 2.45 0.36 5.10-0.22 0.44-0.0922.79-58.44-95.92Heart RateVoltage
+Time StampC Craw-2.69-0.33 6.89-0.17 0.21-0.0316.6723.94-40.43Heart RateVoltage
+Time StampD Ford 2.18-0.62 3.65-0.22 0.43-0.09-8.25-75.44-79.58Heart RateVoltage
+Time StampC Craw-2.19-1.26 7.74-0.16 0.21-0.0719.36 9.40-38.11Heart RateVoltage
+Time StampD Ford 2.80-1.57 3.29-0.22 0.43-0.08-27.19-67.19-51.14Heart RateVoltage
+Time StampC Craw-0.83-0.92 6.67-0.16 0.22-0.0423.6233.10-32.04Heart RateVoltage
+Time StampD Ford 3.27-0.76 2.31-0.23 0.41-0.08-27.69-37.13-16.81Heart RateVoltage
+Time StampC Craw-1.02-0.77 3.64-0.15 0.22-0.0625.1865.53-22.99Heart RateVoltage
+Time StampD Ford 3.64 0.36 1.44-0.22 0.40-0.07-6.20-18.00 8.65Heart RateVoltage
+Time StampC Craw-0.78-1.58 0.07-0.14 0.23-0.0612.4972.63-14.76Heart RateVoltage
+Time StampD Ford 3.75-0.07 2.65-0.21 0.40-0.08-2.38-8.5933.73Heart RateVoltage
+Time StampC Craw-1.02-0.60-2.31-0.13 0.22-0.06-2.3158.83-12.52Heart RateVoltage
+Time StampD Ford 4.68-1.48 7.05-0.19 0.41-0.08-4.09-21.2559.35Heart RateVoltage
+Time StampC Craw-0.03-0.56-1.61-0.12 0.22-0.07-12.84 6.76-4.99Heart RateVoltage
+Time StampD Ford 4.40-0.3611.81-0.18 0.41-0.07-20.42-30.2781.15Heart RateVoltage
+Time StampC Craw-1.01-0.44-0.44-0.12 0.22-0.06-29.6114.30-1.33Heart RateVoltage
+Time StampD Ford 3.81-0.1812.55-0.17 0.41-0.07-35.52-25.63100.72Heart RateVoltage
+Time StampC Craw 0.51-0.52 1.17-0.11 0.22-0.06-20.4522.01 6.33Heart RateVoltage
+Time StampD Ford 2.15-2.8219.30-0.17 0.41-0.0835.94-50.01111.07Heart RateVoltage
+Time StampC Craw-0.14-0.12 2.45-0.11 0.21-0.07 0.3745.73 3.55Heart RateVoltage
+Time StampD Ford 0.82-4.6119.60-0.15 0.43-0.08-15.44-0.19128.31Heart RateVoltage
+Time StampC Craw 0.14 0.22 1.78-0.10 0.22-0.0613.6165.44-0.69Heart RateVoltage
+Time StampD Ford 0.86-0.5616.95-0.14 0.43-0.07-77.6043.66133.29Heart RateVoltage
+Time StampC Craw-0.28-0.91 0.89-0.08 0.22-0.0824.7565.97-5.49Heart RateVoltage
+Time StampD Ford 0.88 0.9312.22-0.12 0.43-0.08-31.55 8.16122.69Heart RateVoltage
+Time StampC Craw-0.58-0.37 0.76-0.08 0.22-0.0820.5239.67-8.02Heart RateVoltage
+Time StampD Ford-0.22 0.7111.79-0.11 0.43-0.0911.17-23.59111.83Heart RateVoltage
+Time StampC Craw-0.64 1.08 3.04-0.06 0.22-0.0710.4714.81-4.95Heart RateVoltage
+Time StampD Ford-1.31-0.1112.10-0.09 0.43-0.0734.47-32.04107.08Heart RateVoltage
+Time StampC Craw 1.14-0.60 2.84-0.06 0.22-0.07-13.92-21.76 1.60Heart RateVoltage
+Time StampD Ford-2.69-0.23 9.56-0.09 0.44-0.0518.28-23.43103.86Heart RateVoltage
+Time StampC Craw 2.99-0.93 1.11-0.07 0.21-0.06-24.66-28.60 8.01Heart RateVoltage
+Time StampD Ford-2.81 0.21 4.08-0.08 0.44-0.05-14.13-32.2592.30Heart RateVoltage
+Time StampC Craw 2.80-0.02 5.01-0.06 0.21-0.0612.35-83.98 4.77Heart RateVoltage
+Time StampD Ford-3.52 0.07 0.01-0.07 0.44-0.06-26.58-62.4675.33Heart RateVoltage
+Time StampC Craw-3.73-0.8311.12-0.09 0.22-0.0626.56-107.43-1.61Heart RateVoltage
+Time StampD Ford-2.25 0.29 1.09-0.08 0.43-0.05 5.97-99.3255.49Heart RateVoltage
+Time StampC Craw-1.02-2.4913.41-0.10 0.21-0.0510.44-101.53-4.78Heart RateVoltage
+Time StampD Ford-3.56 0.14 4.76-0.08 0.44-0.0441.69-104.6829.08Heart RateVoltage
+Time StampC Craw-1.95-1.7313.56-0.11 0.21-0.0522.84-52.39 1.80Heart RateVoltage
+Time StampD Ford-5.15 1.18 6.55-0.09 0.44-0.0326.31-78.93 3.53Heart RateVoltage
+Time StampC Craw-1.29-1.1410.74-0.11 0.21-0.0533.38-21.5512.50Heart RateVoltage
+Time StampD Ford-5.78 2.18 4.15-0.09 0.43-0.03-16.49-46.72-24.33Heart RateVoltage
+Time StampC Craw-1.50-2.3811.27-0.11 0.23-0.0529.51-45.1927.87Heart RateVoltage
+Time StampD Ford-6.33 0.93 3.43-0.08 0.43-0.04-12.08-30.62-49.63Heart RateVoltage
+Time StampC Craw-3.01-3.0613.17-0.12 0.23-0.0432.43-80.8850.34Heart RateVoltage
+Time StampD Ford-7.49 2.36 8.75-0.08 0.42-0.04 4.09-26.56-71.30Heart RateVoltage
+Time StampC Craw-7.64-4.2814.46-0.13 0.24-0.0335.80-88.3440.29Heart RateVoltage
+Time StampD Ford-7.23 2.73 9.90-0.07 0.42-0.0411.99-7.00-103.40Heart RateVoltage
+Time StampC Craw-3.56-1.1911.76-0.14 0.24-0.0416.97-69.5954.78Heart RateVoltage
+Time StampD Ford-7.08 0.1318.11-0.08 0.43-0.0469.16-18.19-140.12Heart RateVoltage
+Time StampC Craw-3.11 0.4712.10-0.15 0.26-0.04 9.09-55.5642.74Heart RateVoltage
+Time StampD Ford-7.36-3.7519.60-0.08 0.43-0.0434.88-24.11-154.09Heart RateVoltage
+Time StampC Craw-4.04 0.8612.11-0.16 0.25-0.03 7.42-56.8215.23Heart RateVoltage
+Time StampD Ford-5.33-3.5219.60-0.08 0.43-0.05-53.54-65.26-148.65Heart RateVoltage
+Time StampC Craw-3.13 2.0412.62-0.17 0.25-0.01-11.06-52.06-10.60Heart RateVoltage
+Time StampD Ford-2.34-1.6013.32-0.10 0.41-0.07-40.71-59.27-127.52Heart RateVoltage
+Time StampC Craw-1.89 1.8810.76-0.17 0.24-0.01-38.03-34.76-13.70Heart RateVoltage
+Time StampD Ford 0.66-0.11 9.05-0.12 0.42-0.0727.58-47.68-104.07Heart RateVoltage
+Time StampC Craw-0.78 0.54 7.12-0.18 0.23-0.01-65.76-61.39-16.76Heart RateVoltage
+Time StampD Ford 1.92 0.59 7.00-0.12 0.42-0.0946.90-33.39-91.74Heart RateVoltage
+Time StampC Craw-1.75 1.85 5.49-0.19 0.23 0.01-97.41-92.40-26.35Heart RateVoltage
+Time StampD Ford 2.38-0.17 4.63-0.13 0.42-0.0828.79-31.72-81.01Heart RateVoltage
+Time StampC Craw-0.47 1.81 8.28-0.20 0.21 0.02-108.66-111.69-35.37Heart RateVoltage
+Time StampD Ford 2.33-1.15 2.66-0.15 0.41-0.0831.47-30.90-71.29Heart RateVoltage
+Time StampC Craw-0.73 1.0711.20-0.20 0.20 0.02-71.08-94.61-39.69Heart RateVoltage
+Time StampD Ford 2.81-2.37 4.70-0.15 0.41-0.0953.61-32.57-55.97Heart RateVoltage
+Time StampC Craw-0.76 2.3010.45-0.21 0.19 0.05-43.79-65.25-21.83Heart RateVoltage
+Time StampD Ford 2.86-0.63 7.36-0.15 0.42-0.0925.76-32.72-33.16Heart RateVoltage
+Time StampC Craw 0.11 1.67 9.91-0.22 0.19 0.05-34.79-70.81 2.78Heart RateVoltage
+Time StampD Ford 2.86 1.16 4.21-0.14 0.42-0.10-40.01-21.07-18.37Heart RateVoltage
+Time StampC Craw 0.82 0.2510.29-0.23 0.18 0.06-24.20-61.4412.39Heart RateVoltage
+Time StampD Ford 4.66 0.20 0.65-0.14 0.42-0.10-39.59-30.23-0.83Heart RateVoltage
+Time StampC Craw 1.03 0.0910.00-0.24 0.17 0.06-2.48-29.3317.89Heart RateVoltage
+Time StampD Ford 4.37-0.58 4.98-0.15 0.40-0.10 3.71-49.5226.45Heart RateVoltage
+Time StampC Craw-0.56-0.3610.13-0.24 0.17 0.0713.22 7.4820.75Heart RateVoltage
+Time StampD Ford 5.16-0.5411.24-0.14 0.41-0.1127.24-50.4455.69Heart RateVoltage
+Time StampC Craw-1.00-0.4112.77-0.25 0.18 0.06 8.6320.9817.21Heart RateVoltage
+Time StampD Ford 3.28-1.8416.40-0.15 0.42-0.1229.65-44.8381.68Heart RateVoltage
+Time StampC Craw-2.38 0.8617.05-0.24 0.18 0.06 4.09 7.3910.25Heart RateVoltage
+Time StampD Ford-1.02-4.5619.60-0.14 0.43-0.1234.40-60.51106.57Heart RateVoltage
+Time StampC Craw-4.13 1.6319.60-0.25 0.18 0.06 9.77-0.0210.05Heart RateVoltage
+Time StampD Ford-0.61-4.2219.60-0.15 0.43-0.12-35.45-3.08124.10Heart RateVoltage
+Time StampC Craw-5.32 2.0919.60-0.24 0.17 0.06 6.0321.45 1.76Heart RateVoltage
+Time StampD Ford-0.18-2.4318.91-0.13 0.43-0.12-90.7133.14127.51Heart RateVoltage
+Time StampC Craw-3.98 2.0819.60-0.25 0.17 0.06 2.6434.07-14.32Heart RateVoltage
+Time StampD Ford-0.90-1.2313.13-0.11 0.42-0.13-34.1323.31126.68Heart RateVoltage
+Time StampC Craw-2.40 0.7919.60-0.24 0.17 0.0716.3257.77-27.54Heart RateVoltage
+Time StampD Ford-2.03 0.2612.47-0.09 0.41-0.1529.5126.51119.86Heart RateVoltage
+Time StampC Craw-1.24-0.0918.57-0.24 0.17 0.0533.2980.45-36.58Heart RateVoltage
+Time StampD Ford-2.81 1.00 9.73-0.08 0.42-0.1526.5616.78106.46Heart RateVoltage
+Time StampC Craw-2.35 0.2518.63-0.22 0.17 0.0531.14108.52-46.09Heart RateVoltage
+Time StampD Ford-3.58 0.77 5.86-0.06 0.42-0.16 3.28-17.6088.61Heart RateVoltage
+Time StampC Craw-4.22 0.6218.42-0.22 0.16 0.0416.67123.30-48.43Heart RateVoltage
+Time StampD Ford-3.90 1.05 3.92-0.05 0.41-0.14-32.30-44.8869.83Heart RateVoltage
+Time StampC Craw-5.87 1.2716.26-0.20 0.16 0.0312.93138.34-42.02Heart RateVoltage
+Time StampD Ford-3.70 1.10 2.89-0.05 0.40-0.17-64.17-66.1146.69Heart RateVoltage
+Time StampC Craw-6.13 2.6513.44-0.19 0.16 0.0011.54135.45-49.23Heart RateVoltage
+Time StampD Ford-4.23 0.78 0.56-0.04 0.39-0.16-57.37-55.2928.51Heart RateVoltage
+Time StampC Craw-7.93 2.4513.16-0.17 0.15-0.0017.85100.78-50.69Heart RateVoltage
+Time StampD Ford-4.24 0.65-0.33-0.05 0.37-0.17 4.76-25.4617.85Heart RateVoltage
+Time StampC Craw-9.03 1.4111.61-0.16 0.16-0.0018.5530.67-22.81Heart RateVoltage
+Time StampD Ford-4.70 1.73 1.26-0.04 0.37-0.1636.05 2.33 2.92Heart RateVoltage
+Time StampC Craw-8.15 0.71 9.00-0.16 0.17-0.0122.70-18.02 1.79Heart RateVoltage
+Time StampD Ford-6.33 0.94 5.48-0.04 0.36-0.1733.2313.14-28.57Heart RateVoltage
+Time StampC Craw-4.85 0.15 6.63-0.16 0.17-0.0027.15-25.8521.12Heart RateVoltage
+Time StampD Ford-6.22-1.75 9.16-0.02 0.37-0.17-35.89 8.15-50.76Heart RateVoltage
+Time StampC Craw-3.77-0.16 6.54-0.16 0.18-0.0022.68-17.6724.91Heart RateVoltage
+Time StampD Ford-5.89-0.31 8.20-0.01 0.37-0.17-73.61-6.88-69.08Heart RateVoltage
+Time StampC Craw-2.68-0.58 7.86-0.18 0.18-0.02 9.76 2.7514.46Heart RateVoltage
+Time StampD Ford-3.80 2.63 9.72 0.00 0.35-0.1612.02-57.20-106.01Heart RateVoltage
+Time StampC Craw-0.43-1.78 7.18-0.18 0.19-0.01 7.1543.2413.48Heart RateVoltage
+Time StampD Ford-4.29-2.4419.60 0.01 0.35-0.1762.40-116.63-145.71Heart RateVoltage
+Time StampC Craw-0.63-1.41 3.79-0.17 0.19-0.0222.0169.5012.89Heart RateVoltage
+Time StampD Ford-5.61-3.5919.60-0.01 0.36-0.17-34.44-106.06-163.82Heart RateVoltage
+Time StampC Craw-0.27-1.14 1.73-0.17 0.19-0.0323.3092.7417.45Heart RateVoltage
+Time StampD Ford-2.84-2.5417.89-0.03 0.36-0.16-65.99-109.13-156.20Heart RateVoltage
+Time StampC Craw-0.59-0.42 1.41-0.16 0.20-0.0419.4377.5911.56Heart RateVoltage
+Time StampD Ford-0.72-1.6311.80-0.04 0.36-0.18-24.81-101.52-130.42Heart RateVoltage
+Time StampC Craw 0.07-0.98 2.27-0.15 0.20-0.0411.9449.84 3.10Heart RateVoltage
+Time StampD Ford 1.55-0.83 8.57-0.05 0.36-0.1738.13-91.47-101.39Heart RateVoltage
+Time StampC Craw 0.94-0.54 3.47-0.14 0.21-0.05 6.5625.34 3.59Heart RateVoltage
+Time StampD Ford 2.80-0.71 7.03-0.06 0.36-0.1757.30-80.50-81.56Heart RateVoltage
+Time StampC Craw 0.60-0.41 4.75-0.13 0.21-0.0510.5729.65 2.55Heart RateVoltage
+Time StampD Ford 3.38-0.38 6.04-0.08 0.38-0.1755.66-69.03-68.80Heart RateVoltage
+Time StampC Craw 0.65 0.44 5.35-0.14 0.21-0.06 9.2457.46 4.19Heart RateVoltage
+Time StampD Ford 3.22-0.89 5.10-0.09 0.39-0.1650.46-39.51-55.83Heart RateVoltage
+Time StampC Craw-1.03-0.19 4.72-0.13 0.21-0.05-1.6872.14 1.50Heart RateVoltage
+Time StampD Ford 2.85-0.20 5.11-0.10 0.41-0.1640.44-4.26-34.99Heart RateVoltage
+Time StampC Craw-0.99-0.08 3.98-0.12 0.21-0.07-8.9867.65-1.90Heart RateVoltage
+Time StampD Ford 3.02 0.80 2.85-0.10 0.41-0.1525.1727.40-15.64Heart RateVoltage
+Time StampC Craw-1.67-0.66 4.81-0.11 0.21-0.06-10.0940.17-2.67Heart RateVoltage
+Time StampD Ford 4.54 0.77 1.60-0.10 0.41-0.1525.09 9.92 0.93Heart RateVoltage
+Time StampC Craw 0.37-0.59 4.88-0.10 0.21-0.08-10.09-0.74 8.50Heart RateVoltage
+Time StampD Ford 5.24-0.00 5.40-0.08 0.43-0.16-9.27-31.7520.24Heart RateVoltage
+Time StampC Craw 1.35-0.79 6.72-0.09 0.20-0.08-7.50-41.1517.60Heart RateVoltage
+Time StampD Ford 5.11-2.87 8.66-0.08 0.43-0.15-31.86-51.6351.63Heart RateVoltage
+Time StampC Craw 2.60-0.13 8.20-0.09 0.20-0.07 6.38-58.5921.34Heart RateVoltage
+Time StampD Ford 2.72 0.1411.17-0.08 0.42-0.13-70.48-66.8573.10Heart RateVoltage
+Time StampC Craw 1.40-0.5210.73-0.11 0.20-0.06-3.18-23.7418.08Heart RateVoltage
+Time StampD Ford 1.63 0.2211.77-0.08 0.41-0.14-48.04-51.9866.62Heart RateVoltage
+Time StampC Craw 0.50-1.1411.25-0.12 0.19-0.07-1.92-0.8620.92Heart RateVoltage
+Time StampD Ford-1.19-3.1618.16-0.08 0.42-0.1685.84-15.5180.54Heart RateVoltage
+Time StampC Craw 0.13-0.8610.06-0.11 0.19-0.0617.34 9.2227.43Heart RateVoltage
+Time StampD Ford-2.05-2.9919.60-0.07 0.44-0.1648.4017.79107.14Heart RateVoltage
+Time StampC Craw 0.84-1.52 9.28-0.12 0.19-0.0535.9312.9530.41Heart RateVoltage
+Time StampD Ford-1.07-0.1816.42-0.05 0.44-0.15-46.2039.77111.62Heart RateVoltage
+Time StampC Craw 0.08-2.78 9.45-0.12 0.20-0.0643.30-10.1635.39Heart RateVoltage
+Time StampD Ford-0.84 0.6914.40-0.04 0.44-0.14-25.1514.57103.16Heart RateVoltage
+Time StampC Craw-0.81-2.49 8.80-0.12 0.20-0.0739.23-49.7028.83Heart RateVoltage
+Time StampD Ford-0.86 0.2013.41-0.03 0.44-0.15-0.43-5.3096.86Heart RateVoltage
+Time StampC Craw-1.11 0.31 7.53-0.14 0.22-0.05 6.89-60.8414.25Heart RateVoltage
+Time StampD Ford-0.88-0.0111.83-0.02 0.45-0.1525.18-4.0996.61Heart RateVoltage
+Time StampC Craw-2.58 0.21 9.01-0.14 0.22-0.06-4.14-56.1410.51Heart RateVoltage
+Time StampD Ford-1.04-0.00 9.06-0.01 0.45-0.1520.41 4.3597.44Heart RateVoltage
+Time StampC Craw-0.97-0.28 8.65-0.16 0.22-0.0619.35-69.33 6.34Heart RateVoltage
+Time StampD Ford-1.83 0.83 4.67-0.01 0.45-0.16 8.51-12.2386.08Heart RateVoltage
+Time StampC Craw-0.86 0.08 6.84-0.17 0.23-0.0525.60-76.04-5.70Heart RateVoltage
+Time StampD Ford-3.29 1.22 2.72 0.00 0.45-0.16-18.43-47.9765.98Heart RateVoltage
+Time StampC Craw-0.77 0.49 5.72-0.18 0.22-0.0411.87-70.49-12.75Heart RateVoltage
+Time StampD Ford-2.99 0.57 2.06-0.01 0.44-0.14-37.43-71.6142.75Heart RateVoltage
+Time StampC Craw-1.40 0.56 4.82-0.19 0.22-0.03 9.36-61.40-15.22Heart RateVoltage
+Time StampD Ford-3.29 0.78 1.93-0.01 0.44-0.17-55.10-61.4416.80Heart RateVoltage
+Time StampC Craw-1.32-0.02 2.58-0.20 0.23-0.03 6.20-66.49-9.55Heart RateVoltage
+Time StampD Ford-5.94-0.24 1.21-0.02 0.43-0.17-26.80-51.27-9.62Heart RateVoltage
+Time StampC Craw-0.73-0.56 2.18-0.21 0.22-0.02-10.09-79.75 0.46Heart RateVoltage
+Time StampD Ford-7.68-1.48 5.04-0.03 0.43-0.1712.71-42.34-18.86Heart RateVoltage
+Time StampC Craw 0.11-1.48 4.50-0.22 0.22-0.01-19.69-102.95 2.01Heart RateVoltage
+Time StampD Ford-7.38-0.08 9.72-0.03 0.43-0.1724.51-6.21-43.67Heart RateVoltage
+Time StampC Craw 0.15-0.81 8.98-0.23 0.22-0.00-7.96-96.28-2.86Heart RateVoltage
+Time StampD Ford-5.68-0.5113.76-0.04 0.43-0.17-27.66-12.01-84.67Heart RateVoltage
+Time StampC Craw 0.46-0.86 9.67-0.24 0.21 0.00-12.32-65.01-3.95Heart RateVoltage
+Time StampD Ford-4.11-0.4712.02-0.03 0.43-0.17-56.04-61.57-122.46Heart RateVoltage
+Time StampC Craw 0.53-0.30 8.20-0.26 0.21 0.02-31.95-23.90-2.71Heart RateVoltage
+Time StampD Ford-3.60-1.3619.60-0.06 0.42-0.1840.01-124.60-157.56Heart RateVoltage
+Time StampC Craw 0.10 0.23 9.05-0.26 0.20 0.01-50.44-21.46-4.60Heart RateVoltage
+Time StampD Ford-4.03-3.4219.60-0.09 0.42-0.1729.08-129.05-157.19Heart RateVoltage
+Time StampC Craw-2.10 0.1914.83-0.25 0.20 0.02-50.05-33.78-5.82Heart RateVoltage
+Time StampD Ford-2.45-1.4617.80-0.12 0.42-0.18-20.43-112.61-140.94Heart RateVoltage
+Time StampC Craw-2.70-0.3419.60-0.26 0.19 0.03-48.58-54.75-2.35Heart RateVoltage
+Time StampD Ford-0.14 0.8811.96-0.14 0.41-0.17 7.94-61.37-103.53Heart RateVoltage
+Time StampC Craw-1.36 1.1419.60-0.28 0.19 0.04-32.72-31.94-6.59Heart RateVoltage
+Time StampD Ford 2.03 1.84 7.54-0.15 0.41-0.1764.99-22.85-78.94Heart RateVoltage
+Time StampC Craw-0.89 0.2319.60-0.28 0.18 0.04-29.72 7.20-15.09Heart RateVoltage
+Time StampD Ford 2.89 2.71 4.85-0.15 0.42-0.1790.02-18.81-67.15Heart RateVoltage
+Time StampD Ford 4.45 1.35 3.00-0.17 0.43-0.1785.89-34.66-62.85Heart RateVoltage
+Time StampC Craw-0.82 0.3319.60-0.27 0.17 0.04-26.12 9.92-16.14Heart RateVoltage
+Time StampD Ford 4.14 0.46 4.89-0.17 0.44-0.1561.84-42.26-65.23Heart RateVoltage
+Time StampC Craw-1.36 1.9119.60-0.27 0.17 0.04-6.2431.87-15.76Heart RateVoltage
+Time StampD Ford 2.93 1.14 5.09-0.17 0.45-0.1612.07-30.21-42.81Heart RateVoltage
+Time StampC Craw-2.40 1.3419.60-0.26 0.17 0.0217.1982.46-25.13Heart RateVoltage
+Time StampC Craw-5.33 1.6719.60-0.25 0.17 0.0027.32111.82-28.44Heart RateVoltage
+Time StampD Ford 3.26 1.14 3.66-0.18 0.44-0.16-24.75-20.51-20.52Heart RateVoltage
+Time StampC Craw-6.97 5.2119.60-0.24 0.17-0.0130.71122.99-31.32Heart RateVoltage
+Time StampD Ford 4.62-0.64 4.51-0.18 0.44-0.15-26.62-20.48 2.12Heart RateVoltage
+Time StampC Craw-8.53 4.6418.94-0.22 0.17-0.0335.25130.51-38.90Heart RateVoltage
+Time StampD Ford 3.86-2.30 8.85-0.17 0.43-0.16-22.60-28.6534.02Heart RateVoltage
+Time StampC Craw-8.12 1.8314.83-0.20 0.17-0.0442.63109.03-30.69Heart RateVoltage
+Time StampD Ford 4.14-2.3612.84-0.18 0.43-0.16-36.70-34.6258.48Heart RateVoltage
+Time StampC Craw-5.80 0.98 9.89-0.18 0.17-0.0545.0179.69-26.42Heart RateVoltage
+Time StampD Ford 4.28-3.2416.32-0.18 0.42-0.16-51.22-23.7682.72Heart RateVoltage
+Time StampC Craw-2.99 0.65 5.36-0.17 0.17-0.0837.5239.77-22.09Heart RateVoltage
+Time StampD Ford 2.06-3.0018.44-0.17 0.42-0.17-19.07-4.60108.12Heart RateVoltage
+Time StampC Craw-1.06-0.52 2.85-0.16 0.17-0.0715.96-5.47-12.11Heart RateVoltage
+Time StampD Ford 1.15-5.0919.60-0.16 0.41-0.17 5.68 2.77129.54Heart RateVoltage
+Time StampC Craw-0.44-0.93 4.16-0.16 0.16-0.06-4.55-26.02-10.47Heart RateVoltage
+Time StampD Ford-0.11-4.5719.60-0.15 0.42-0.16-32.76-4.30139.48Heart RateVoltage
+Time StampC Craw-1.28-1.31 5.57-0.17 0.16-0.07-9.06-17.27-4.31Heart RateVoltage
+Time StampD Ford-1.66-2.0514.22-0.14 0.42-0.16-51.86-10.67132.65Heart RateVoltage
+Time StampC Craw-0.33-0.51 4.75-0.17 0.16-0.07-2.86 6.27-0.90Heart RateVoltage
+Time StampD Ford-2.36 0.11 9.86-0.12 0.42-0.16-40.28-14.64114.07Heart RateVoltage
+Time StampC Craw 0.15-0.80 2.31-0.16 0.16-0.07 3.1823.97 7.11Heart RateVoltage
+Time StampD Ford-2.18 0.19 6.70-0.11 0.41-0.15-12.25-7.1191.68Heart RateVoltage
+Time StampC Craw 0.35-1.45 1.22-0.16 0.15-0.07-5.3733.90 4.69Heart RateVoltage
+Time StampD Ford-2.72-0.14 4.87-0.11 0.42-0.1817.51-9.6475.50Heart RateVoltage
+Time StampC Craw 0.04-1.41 1.11-0.16 0.15-0.07-8.9121.57 3.26Heart RateVoltage
+Time StampD Ford-2.64-1.06 4.07-0.09 0.42-0.1727.45-24.3268.50Heart RateVoltage
+Time StampC Craw 0.07-0.47 2.24-0.15 0.15-0.08-11.5315.15 5.70Heart RateVoltage
+Time StampD Ford-3.54 0.06 2.45-0.09 0.42-0.16 6.15-47.6158.94Heart RateVoltage
+Time StampC Craw 0.24-0.07 2.54-0.15 0.15-0.07-15.2028.93 6.35Heart RateVoltage
+Time StampD Ford-3.37 0.46 0.44-0.09 0.42-0.1610.60-65.6444.90Heart RateVoltage
+Time StampC Craw 0.37-0.11 3.03-0.14 0.14-0.08-17.1342.42 3.70Heart RateVoltage
+Time StampD Ford-3.73 0.48 0.76-0.09 0.43-0.1725.00-62.5831.58Heart RateVoltage
+Time StampC Craw-0.32 0.18 4.12-0.13 0.14-0.07-9.6952.98 0.95Heart RateVoltage
+Time StampD Ford-5.21 1.16 1.86-0.09 0.44-0.1619.74-43.1212.73Heart RateVoltage
+Time StampC Craw-0.48 0.06 5.22-0.13 0.14-0.09 8.0155.25 0.12Heart RateVoltage
+Time StampD Ford-6.56 0.78 3.91-0.09 0.44-0.1413.90-26.27-11.71Heart RateVoltage
+Time StampC Craw-0.09-0.61 3.01-0.12 0.14-0.1017.5659.52-1.26Heart RateVoltage
+Time StampD Ford-7.11 0.1310.37-0.09 0.44-0.16-1.69-11.14-44.95Heart RateVoltage
+Time StampC Craw 0.05 0.08 2.75-0.11 0.14-0.1110.8147.39-2.72Heart RateVoltage
+Time StampD Ford-6.60 0.6814.46-0.09 0.44-0.15-45.60-6.73-79.02Heart RateVoltage
+Time StampC Craw 1.77-0.35 3.63-0.10 0.14-0.10 0.55 3.82 6.70Heart RateVoltage
+Time StampD Ford-6.53 0.7512.93-0.09 0.42-0.16-71.36-26.03-109.43Heart RateVoltage
+Time StampC Craw 3.42-0.54 4.64-0.11 0.14-0.09-0.49-23.2219.31Heart RateVoltage
+Time StampD Ford-5.02 0.0515.52-0.09 0.40-0.1835.76-72.97-146.07Heart RateVoltage
+Time StampC Craw 4.53-0.50 4.41-0.11 0.15-0.09 3.18-35.8230.79Heart RateVoltage
+Time StampD Ford-6.22-3.9619.60-0.10 0.41-0.1735.99-109.57-174.98Heart RateVoltage
+Time StampC Craw 1.52 0.11 7.79-0.12 0.15-0.09 3.55-40.2626.93Heart RateVoltage
+Time StampD Ford-5.48-4.9619.60-0.13 0.41-0.16-85.36-88.44-171.00Heart RateVoltage
+Time StampC Craw 1.50-0.7210.15-0.12 0.15-0.11-5.78-28.01 3.60Heart RateVoltage
+Time StampD Ford-1.71-1.3910.47-0.15 0.39-0.18-73.85-49.22-138.24Heart RateVoltage
+Time StampC Craw 0.64-0.82 8.94-0.13 0.16-0.10-6.26-8.45 0.83Heart RateVoltage
+Time StampD Ford 1.04-0.12 7.40-0.15 0.37-0.1719.77-47.78-109.54Heart RateVoltage
+Time StampC Craw 0.70-1.37 7.52-0.12 0.15-0.09-1.8414.30 6.72Heart RateVoltage
+Time StampD Ford 2.38 0.26 6.95-0.15 0.36-0.1860.84-54.60-94.92Heart RateVoltage
+Time StampC Craw 0.78-2.53 9.38-0.13 0.16-0.09 9.23-10.48 7.24Heart RateVoltage
+Time StampD Ford 2.75 0.82 5.94-0.17 0.36-0.1760.44-65.30-96.54Heart RateVoltage
+Time StampC Craw-0.65-2.2511.04-0.14 0.17-0.1033.08-39.18 8.53Heart RateVoltage
+Time StampD Ford 2.75-0.39 5.75-0.17 0.37-0.1743.73-63.95-94.36Heart RateVoltage
+Time StampC Craw-2.63-1.16 9.20-0.14 0.18-0.0943.00-12.0019.46Heart RateVoltage
+Time StampD Ford 3.35-0.16 5.87-0.17 0.37-0.16 0.74-58.11-79.01Heart RateVoltage
+Time StampC Craw-2.63-1.16 9.20-0.14 0.18-0.0943.00-12.0019.46Heart RateVoltage
+Time StampC Craw-2.05-0.03 7.22-0.14 0.18-0.0830.56 1.3124.86Heart RateVoltage
+Time StampD Ford 4.09-0.07 3.79-0.19 0.37-0.16-34.14-41.13-59.16Heart RateVoltage
+Time StampC Craw-2.25 0.11 5.70-0.14 0.19-0.0810.57-39.9426.28Heart RateVoltage
+Time StampD Ford 4.08-0.19 2.58-0.20 0.36-0.17-15.58-27.23-22.99Heart RateVoltage
+Time StampC Craw-3.18-0.54 6.45-0.15 0.20-0.10-6.84-82.1130.80Heart RateVoltage
+Time StampD Ford 5.42 0.09 2.48-0.19 0.35-0.1720.64-3.3016.39Heart RateVoltage
+Time StampC Craw-3.50 0.52 7.14-0.16 0.19-0.09-6.34-84.8910.41Heart RateVoltage
+Time StampD Ford 6.10-0.24 5.63-0.18 0.36-0.1732.88-8.7851.44Heart RateVoltage
+Time StampC Craw-3.13 1.68 7.00-0.18 0.20-0.07-17.91-72.19 6.95Heart RateVoltage
+Time StampD Ford 5.43-1.0514.55-0.18 0.36-0.16-22.37-26.3979.10Heart RateVoltage
+Time StampC Craw-2.58 0.56 6.14-0.18 0.19-0.07-51.20-75.4510.73Heart RateVoltage
+Time StampD Ford 5.05-2.8215.53-0.17 0.36-0.17-89.60-22.60114.82Heart RateVoltage
+Time StampC Craw-3.22 1.02 5.88-0.19 0.20-0.06-55.97-95.53 6.27Heart RateVoltage
+Time StampD Ford 3.62-4.9816.04-0.16 0.35-0.17-43.07-19.99147.93Heart RateVoltage
+Time StampC Craw-1.19 0.16 7.13-0.21 0.19-0.05-44.22-99.40 3.82Heart RateVoltage
+Time StampD Ford 1.59-8.2719.60-0.14 0.36-0.17-7.70-2.34194.19Heart RateVoltage
+Time StampC Craw 0.06 0.08 9.29-0.22 0.18-0.03-22.28-78.92 7.35Heart RateVoltage
+Time StampD Ford 0.99-3.6817.41-0.12 0.36-0.17-117.9949.58215.49Heart RateVoltage
+Time StampC Craw 1.52-0.2310.94-0.23 0.18-0.02-14.42-60.82 0.12Heart RateVoltage
+Time StampD Ford 0.85-1.96 7.48-0.11 0.34-0.18-117.2945.15206.26Heart RateVoltage
+Time StampC Craw 1.04 0.78 9.79-0.24 0.19-0.01-23.91-57.54-6.31Heart RateVoltage
+Time StampD Ford 0.07-1.06 7.67-0.08 0.34-0.17-54.6135.10188.40Heart RateVoltage
+Time StampC Craw-0.91 1.91 9.69-0.24 0.19-0.01-33.31-29.36 0.11Heart RateVoltage
+Time StampD Ford-0.74-1.03 7.33-0.07 0.32-0.17-8.1544.09183.94Heart RateVoltage
+Time StampC Craw-1.46 1.6512.92-0.25 0.18-0.00-23.73-13.36 5.25Heart RateVoltage
+Time StampD Ford-0.92-1.28 8.78-0.06 0.33-0.1731.2336.66184.34Heart RateVoltage
+Time StampC Craw-0.80 1.5117.77-0.25 0.18 0.00-26.73-50.3110.60Heart RateVoltage
+Time StampD Ford-1.38-0.77 5.76-0.04 0.34-0.1629.4523.05182.06Heart RateVoltage
+Time StampC Craw-1.29 2.3819.60-0.26 0.18 0.01-11.58-66.99 2.78Heart RateVoltage
+Time StampD Ford-1.62-0.07 3.95-0.02 0.34-0.15 7.59-22.40158.56Heart RateVoltage
+Time StampC Craw-1.09 3.4319.60-0.26 0.18 0.03-1.54-58.11 1.26Heart RateVoltage
+Time StampD Ford-0.84-2.22 3.42-0.02 0.34-0.16-21.81-68.93138.94Heart RateVoltage
+Time StampC Craw-0.68 3.4919.60-0.27 0.18 0.03 4.76-50.76-7.04Heart RateVoltage
+Time StampD Ford-2.06-1.93 5.45-0.02 0.33-0.15-10.36-79.44123.73Heart RateVoltage
+Time StampC Craw 1.15 3.0019.60-0.27 0.18 0.0319.97-40.07-15.86Heart RateVoltage
+Time StampD Ford-3.98-1.80 7.36-0.02 0.33-0.16 5.42-33.68112.41Heart RateVoltage
+Time StampC Craw 2.79 1.1519.60-0.28 0.18 0.0432.24-17.81-36.31Heart RateVoltage
+Time StampD Ford-4.02-2.44 8.34-0.01 0.32-0.15-2.31-2.53114.42Heart RateVoltage
+Time StampC Craw 1.28 0.3219.60-0.27 0.18 0.0435.9636.60-70.12Heart RateVoltage
+Time StampD Ford-2.37-2.6811.08-0.01 0.32-0.14-23.57-16.62121.84Heart RateVoltage
+Time StampC Craw-0.79 0.5519.60-0.26 0.18 0.0342.3169.56-90.53Heart RateVoltage
+Time StampD Ford 1.03-2.7413.83-0.00 0.31-0.1413.77-19.70125.47Heart RateVoltage
+Time StampC Craw-4.71 1.5319.60-0.25 0.17 0.0350.5998.81-77.23Heart RateVoltage
+Time StampD Ford-0.12-3.2117.99 0.00 0.32-0.1546.99-21.87128.75Heart RateVoltage
+Time StampC Craw-7.26 3.5519.52-0.24 0.16 0.0032.49124.91-50.15Heart RateVoltage
+Time StampD Ford-0.65-4.2715.47 0.02 0.32-0.1536.16-27.01139.28Heart RateVoltage
+Time StampC Craw-9.08 3.1819.60-0.21 0.16-0.0110.23117.68-40.70Heart RateVoltage
+Time StampD Ford-1.39-3.4213.70 0.01 0.32-0.1529.30-53.69151.89Heart RateVoltage
+Time StampC Craw-9.49 0.9817.56-0.19 0.16-0.0313.57100.16-32.24Heart RateVoltage
+Time StampD Ford-2.21-2.0710.92 0.01 0.32-0.16-3.48-61.18159.32Heart RateVoltage
+Time StampC Craw-8.47 0.4013.57-0.17 0.15-0.0324.6164.20-25.23Heart RateVoltage
+Time StampD Ford-2.01-1.76 7.57 0.02 0.31-0.15-33.85-71.25166.14Heart RateVoltage
+Time StampC Craw-6.38-0.31 9.33-0.17 0.16-0.0329.3625.44-17.17Heart RateVoltage
+Time StampD Ford-1.56-1.44 5.41 0.02 0.30-0.15-42.57-77.53170.88Heart RateVoltage
+Time StampC Craw-4.78-1.36 6.57-0.17 0.17-0.0521.4916.56-1.45Heart RateVoltage
+Time StampD Ford-1.70-2.00 7.11 0.00 0.29-0.15-44.43-60.09174.55Heart RateVoltage
+Time StampC Craw-2.62-0.63 4.09-0.16 0.17-0.0411.3221.53 6.43Heart RateVoltage
+Time StampD Ford-1.78-2.56 7.87 0.00 0.28-0.16-6.56-46.34187.30Heart RateVoltage
+Time StampC Craw-1.26-0.99 3.29-0.16 0.17-0.05-0.8530.7913.15Heart RateVoltage
+Time StampD Ford-0.48-2.14 8.02-0.01 0.28-0.16 7.78-27.87201.66Heart RateVoltage
+Time StampC Craw-0.85-0.97 2.98-0.15 0.17-0.06-10.5425.8418.50Heart RateVoltage
+Time StampD Ford 0.97-2.70 8.22 0.00 0.27-0.1613.19-23.61212.87Heart RateVoltage
+Time StampC Craw-0.01-0.61 4.54-0.16 0.17-0.05-12.6827.2618.40Heart RateVoltage
+Time StampD Ford 0.88-3.4510.24 0.01 0.28-0.15-2.58-19.02226.74Heart RateVoltage
+Time StampC Craw-0.08-0.42 4.74-0.15 0.17-0.05 3.8735.6421.74Heart RateVoltage
+Time StampD Ford 0.04-3.4614.24 0.00 0.26-0.16-40.06-8.65239.99Heart RateVoltage
+Time StampC Craw-0.54 0.19 3.88-0.14 0.17-0.0616.9561.6424.52Heart RateVoltage
+Time StampD Ford 1.70-0.9513.78 0.01 0.25-0.17-54.5725.57234.72Heart RateVoltage
+Time StampC Craw-0.60 0.34 4.61-0.14 0.18-0.0617.9172.5026.07Heart RateVoltage
+Time StampD Ford 2.54-0.7711.29 0.01 0.24-0.16-10.5516.95214.45Heart RateVoltage
+Time StampC Craw-0.86-0.09 5.96-0.13 0.19-0.0812.0850.4329.20Heart RateVoltage
+Time StampD Ford 2.73-1.5210.50 0.03 0.23-0.1619.28-18.17201.63Heart RateVoltage
+Time StampC Craw-0.85-0.15 7.27-0.12 0.19-0.0818.9851.8722.01Heart RateVoltage
+Time StampD Ford 0.65-2.7119.60 0.01 0.23-0.1626.41-76.99191.50Heart RateVoltage
+Time StampC Craw-1.46 0.02 6.80-0.11 0.20-0.0844.2865.9016.68Heart RateVoltage
+Time StampD Ford-1.43-2.6918.09 0.01 0.23-0.16-43.01-53.09186.79Heart RateVoltage
+Time StampC Craw-1.88-1.48 4.54-0.10 0.21-0.1051.7976.5019.43Heart RateVoltage
+Time StampD Ford-1.73-0.7510.08 0.00 0.22-0.16-42.66-10.35176.45Heart RateVoltage
+Time StampC Craw-2.59 0.08 4.80-0.08 0.21-0.1041.1580.4529.55Heart RateVoltage
+Time StampD Ford-1.26-0.6810.00-0.00 0.22-0.1728.45 9.86155.64Heart RateVoltage
+Time StampC Craw-2.93-0.68 3.24-0.07 0.22-0.1027.7560.8634.84Heart RateVoltage
+Time StampD Ford-0.60-1.4411.43 0.01 0.22-0.1667.2112.92133.85Heart RateVoltage
+Time StampC Craw-0.34 0.57 1.73-0.07 0.23-0.1023.7526.0135.53Heart RateVoltage
+Time StampD Ford-1.16-1.0211.81 0.02 0.23-0.1549.81 0.39113.41Heart RateVoltage
+Time StampC Craw 0.92 0.97 2.95-0.06 0.24-0.1116.94-6.0029.38Heart RateVoltage
+Time StampD Ford-1.48-0.27 8.70 0.02 0.24-0.1611.78-7.9596.45Heart RateVoltage
+Time StampC Craw 1.26 0.81 2.90-0.07 0.25-0.09 9.56-29.9719.69Heart RateVoltage
+Time StampD Ford-1.96-0.32 6.90 0.03 0.24-0.1611.33-15.8286.62Heart RateVoltage
+Time StampC Craw 2.61 0.08 3.67-0.07 0.25-0.10 6.46-42.9415.57Heart RateVoltage
+Time StampD Ford-1.84-0.41 6.26 0.02 0.23-0.16 7.68-20.5482.22Heart RateVoltage
+Time StampC Craw 3.08-1.63 6.02-0.08 0.25-0.1023.57-60.7216.16Heart RateVoltage
+Time StampD Ford-0.99 0.07 4.79 0.03 0.24-0.1719.45-31.2180.49Heart RateVoltage
+Time StampC Craw 0.26-3.8610.19-0.10 0.26-0.1021.13-30.62 2.82Heart RateVoltage
+Time StampD Ford-0.01 0.19 6.87 0.03 0.24-0.1732.82-52.5579.86Heart RateVoltage
+Time StampC Craw-0.68-3.4611.47-0.10 0.26-0.1017.11-38.60-5.15Heart RateVoltage
+Time StampD Ford-0.14 0.33 8.72 0.02 0.24-0.16 0.21-67.5782.17Heart RateVoltage
+Time StampC Craw-1.74-1.36 8.46-0.09 0.27-0.0911.19-38.31 2.36Heart RateVoltage
+Time StampD Ford-0.10 0.23 6.98 0.02 0.24-0.16-26.63-67.0085.24Heart RateVoltage
+Time StampC Craw-0.08-1.41 6.83-0.11 0.28-0.0814.94-44.4716.69Heart RateVoltage
+Time StampD Ford 0.01 0.36 7.62 0.01 0.24-0.17-7.74-57.7388.79Heart RateVoltage
+Time StampC Craw 1.63-2.31 7.73-0.12 0.27-0.08-0.83-80.0113.49Heart RateVoltage
+Time StampD Ford 0.12 0.48 7.98-0.00 0.23-0.17 4.53-47.3591.35Heart RateVoltage
+Time StampC Craw 1.42-1.32 9.61-0.13 0.28-0.08-19.71-103.21-2.07Heart RateVoltage
+Time StampD Ford-0.08-0.1810.14 0.00 0.24-0.1723.18-56.4590.17Heart RateVoltage
+Time StampC Craw 0.19-0.8812.05-0.15 0.28-0.08-21.15-91.31-4.20Heart RateVoltage
+Time StampD Ford-0.42-0.4214.59-0.01 0.24-0.1610.26-53.7588.03Heart RateVoltage
+Time StampC Craw 0.21-0.8313.63-0.15 0.29-0.07-10.84-51.24-10.05Heart RateVoltage
+Time StampD Ford-1.13-0.6614.82-0.01 0.24-0.17-27.12-25.7588.81Heart RateVoltage
+Time StampC Craw-0.62-1.2512.11-0.16 0.29-0.07-17.51-27.90-10.19Heart RateVoltage
+Time StampD Ford-0.95-0.19 9.88-0.01 0.23-0.17-25.23-1.1589.70Heart RateVoltage
+Time StampC Craw 0.09-0.5911.09-0.17 0.28-0.05-29.23-10.58-11.20Heart RateVoltage
+Time StampD Ford-1.24-0.09 8.18-0.01 0.23-0.1910.97-10.5084.11Heart RateVoltage
+Time StampC Craw 0.66 0.1511.15-0.17 0.28-0.05-34.27 2.65-20.22Heart RateVoltage
+Time StampD Ford-2.06-0.6610.01-0.01 0.23-0.1727.68-32.1576.18Heart RateVoltage
+Time StampC Craw-0.48-0.1713.24-0.16 0.28-0.06-37.4433.32-23.11Heart RateVoltage
+Time StampD Ford-1.81-0.74 8.71-0.01 0.24-0.1625.00-61.5664.66Heart RateVoltage
+Time StampC Craw-1.12-0.5812.87-0.15 0.26-0.07-29.1646.04-20.94Heart RateVoltage
+Time StampD Ford-2.84-0.76 9.25-0.01 0.24-0.17 8.10-89.9846.37Heart RateVoltage
+Time StampC Craw-1.90-1.8713.03-0.15 0.26-0.07-21.0339.35-16.96Heart RateVoltage
+Time StampD Ford-3.43-1.15 9.10-0.02 0.25-0.18-21.74-84.0725.48Heart RateVoltage
+Time StampC Craw-1.14-1.0612.86-0.13 0.26-0.07-18.3539.56-5.45Heart RateVoltage
+Time StampC Craw-0.84-0.2411.94-0.13 0.26-0.07-14.8337.29 4.49Heart RateVoltage
+Time StampD Ford-4.73-1.5510.82-0.02 0.25-0.17-12.49-56.7315.46Heart RateVoltage
+Time StampD Ford-4.44-0.4010.90-0.04 0.24-0.18 7.23-20.74 1.58Heart RateVoltage
+Time StampC Craw-0.79-0.8211.01-0.13 0.26-0.08-15.6125.0110.24Heart RateVoltage
+Time StampD Ford-3.65-0.4413.22-0.03 0.25-0.1816.10-27.18-20.90Heart RateVoltage
+Time StampC Craw-2.61-1.5912.53-0.12 0.25-0.08-16.9126.9214.41Heart RateVoltage
+Time StampD Ford-5.53 0.5316.80-0.03 0.25-0.19-12.03-44.86-48.23Heart RateVoltage
+Time StampC Craw-0.89-0.4711.92-0.12 0.25-0.07-17.3534.3225.41Heart RateVoltage
+Time StampD Ford-6.28 0.8018.64-0.03 0.25-0.20-25.80-46.64-82.31Heart RateVoltage
+Time StampC Craw 0.04 0.9911.58-0.11 0.25-0.08-12.9125.0225.38Heart RateVoltage
+Time StampD Ford-5.34-1.5119.60-0.04 0.25-0.19-36.01-41.49-106.96Heart RateVoltage
+Time StampC Craw-0.82 0.4910.78-0.11 0.26-0.08-9.3316.7832.53Heart RateVoltage
+Time StampD Ford-2.76-1.9119.60-0.03 0.24-0.19-95.86-49.40-116.58Heart RateVoltage
+Time StampC Craw-1.35-0.1412.06-0.10 0.25-0.08 0.03 0.1443.24Heart RateVoltage
+Time StampD Ford-1.65-1.2814.78-0.04 0.23-0.18-112.32-63.48-119.06Heart RateVoltage
+Time StampC Craw 0.19-0.9013.35-0.11 0.25-0.07 7.56 6.8850.19Heart RateVoltage
+Time StampD Ford-0.62-1.1711.48-0.05 0.20-0.17-93.16-84.24-112.03Heart RateVoltage
+Time StampC Craw 0.75-1.7710.56-0.11 0.26-0.0814.9817.0759.60Heart RateVoltage
+Time StampD Ford 0.30-0.61 8.19-0.05 0.17-0.17-48.26-82.33-93.91Heart RateVoltage
+Time StampC Craw-0.07-1.74 8.84-0.10 0.27-0.0829.7113.6666.79Heart RateVoltage
+Time StampD Ford 0.65 0.07 5.09-0.05 0.17-0.15 4.74-70.39-74.28Heart RateVoltage
+Time StampC Craw 0.66-2.97 8.42-0.10 0.28-0.0836.59 4.8375.50Heart RateVoltage
+Time StampD Ford 1.00 0.68 4.70-0.05 0.16-0.16 7.61-73.60-61.65Heart RateVoltage
+Time StampC Craw-0.21-3.16 8.77-0.10 0.29-0.0940.08 3.8880.42Heart RateVoltage
+Time StampD Ford 1.70 0.73 2.87-0.06 0.16-0.15-1.56-61.87-55.03Heart RateVoltage
+Time StampC Craw-0.46-3.21 8.32-0.10 0.29-0.0740.5014.2086.90Heart RateVoltage
+Time StampD Ford 3.11 0.86 1.58-0.05 0.17-0.17 7.60-37.57-51.03Heart RateVoltage
+Time StampC Craw-0.68-3.25 7.97-0.10 0.31-0.0936.1215.1499.66Heart RateVoltage
+Time StampD Ford 4.08-1.51 3.27-0.05 0.17-0.1644.80-19.99-37.41Heart RateVoltage
+Time StampC Craw-2.75-3.41 7.78-0.09 0.32-0.0824.8412.07114.77Heart RateVoltage
+Time StampD Ford 3.29-0.55 4.60-0.04 0.18-0.1758.99-3.09-13.75Heart RateVoltage
+Time StampC Craw-2.98-3.28 8.04-0.10 0.32-0.0810.35-12.98126.66Heart RateVoltage
+Time StampD Ford 2.25 0.98 4.56-0.04 0.19-0.17 5.33-0.31 6.02Heart RateVoltage
+Time StampC Craw-3.89-3.42 8.69-0.09 0.33-0.08-6.50-38.63141.99Heart RateVoltage
+Time StampD Ford 2.95 1.05 2.23-0.04 0.18-0.16-44.32-7.8917.82Heart RateVoltage
+Time StampC Craw-5.09-3.1010.81-0.09 0.34-0.08-15.04-64.62157.15Heart RateVoltage
+Time StampD Ford 4.92-0.80 4.17-0.02 0.18-0.17-25.80-15.5729.22Heart RateVoltage
+Time StampC Craw-4.67-2.5012.42-0.10 0.34-0.07-4.80-57.37173.18Heart RateVoltage
+Time StampD Ford 3.45-2.7411.58-0.02 0.18-0.16 1.74-11.2752.38Heart RateVoltage
+Time StampC Craw-5.02-1.2611.31-0.11 0.34-0.07-3.50-39.95175.97Heart RateVoltage
+Time StampD Ford 1.78-2.5516.16-0.02 0.17-0.16-39.06-11.6684.19Heart RateVoltage
+Time StampC Craw-3.75-0.7310.59-0.11 0.36-0.07-10.91-31.56161.64Heart RateVoltage
+Time StampD Ford 1.73-1.7117.50-0.02 0.16-0.16-51.0911.79112.66Heart RateVoltage
+Time StampC Craw-2.99-1.0010.02-0.11 0.36-0.07-13.69-28.96155.69Heart RateVoltage
+Time StampD Ford 2.47-1.9719.60-0.01 0.16-0.15-20.5534.13120.48Heart RateVoltage
+Time StampC Craw-2.80-0.8610.33-0.11 0.37-0.06-10.61-35.53156.97Heart RateVoltage
+Time StampD Ford 2.96-2.5319.60-0.00 0.14-0.15-51.9520.65119.18Heart RateVoltage
+Time StampC Craw-3.61-0.3111.04-0.11 0.37-0.06-1.05-30.70158.59Heart RateVoltage
+Time StampD Ford 1.95-2.7416.30 0.00 0.13-0.14-70.18-4.12119.00Heart RateVoltage
+Time StampC Craw-4.28-0.2510.83-0.11 0.38-0.05 6.63-26.10157.77Heart RateVoltage
+Time StampD Ford-0.27-0.8112.86-0.00 0.12-0.15-70.39-4.99115.54Heart RateVoltage
+Time StampC Craw-4.39-0.9210.75-0.11 0.39-0.06 9.48-23.73159.75Heart RateVoltage
+Time StampD Ford-1.05 0.33 7.54-0.00 0.11-0.13-34.22 0.60108.48Heart RateVoltage
+Time StampC Craw-4.39-0.6210.19-0.10 0.41-0.06 7.87-23.87164.71Heart RateVoltage
+Time StampD Ford-1.60-0.35 4.49-0.01 0.09-0.1328.25 6.35107.31Heart RateVoltage
+Time StampC Craw-4.18-0.7110.86-0.10 0.41-0.0614.62-20.98165.04Heart RateVoltage
+Time StampD Ford-1.78-0.36 5.29-0.00 0.10-0.1477.04-4.98106.50Heart RateVoltage
+Time StampC Craw-4.06-0.6010.59-0.10 0.42-0.0620.30-12.19164.88Heart RateVoltage
+Time StampD Ford-1.96-0.28 5.46-0.01 0.11-0.1452.73-23.1993.36Heart RateVoltage
+Time StampC Craw-3.52-1.0710.67-0.09 0.43-0.0523.22-10.00164.66Heart RateVoltage
+Time StampD Ford-3.07 0.81 2.91-0.01 0.11-0.1619.64-43.5967.97Heart RateVoltage
+Time StampC Craw-3.21-2.1610.49-0.08 0.44-0.0416.79-21.31163.74Heart RateVoltage
+Time StampD Ford-3.38 0.15 1.16-0.02 0.12-0.1611.26-70.7638.80Heart RateVoltage
+Time StampC Craw-3.45-1.6111.48-0.07 0.45-0.05 0.94-30.43166.09Heart RateVoltage
+Time StampD Ford-4.06-0.86 4.20-0.02 0.12-0.1648.07-74.1021.61Heart RateVoltage
+Time StampC Craw-2.90-1.0910.56-0.06 0.45-0.04 0.77-23.26166.68Heart RateVoltage
+Time StampD Ford-4.77 1.00 6.50-0.03 0.13-0.1775.75-28.16 4.29Heart RateVoltage
+Time StampC Craw-2.36-1.2810.83-0.06 0.46-0.04-9.18-28.81164.88Heart RateVoltage
+Time StampD Ford-3.67 1.05 6.57-0.04 0.13-0.1850.32-8.57-21.26Heart RateVoltage
+Time StampC Craw-2.22-0.5211.49-0.05 0.48-0.04-19.32-30.07160.60Heart RateVoltage
+Time StampD Ford-4.31 0.51 5.95-0.04 0.15-0.18 9.95-24.69-44.08Heart RateVoltage
+Time StampC Craw-1.70 0.3913.67-0.03 0.47-0.06-24.21-18.24155.99Heart RateVoltage
+Time StampD Ford-4.86 0.49 8.96-0.02 0.15-0.17-5.28-50.14-60.51Heart RateVoltage
+Time StampC Craw-1.29 0.1213.53-0.02 0.48-0.05-22.16 6.23146.63Heart RateVoltage
+Time StampD Ford-5.43 0.5713.94-0.03 0.15-0.17-6.15-49.97-79.09Heart RateVoltage
+Time StampC Craw-0.90-0.2512.69-0.00 0.48-0.04-18.3717.81138.01Heart RateVoltage
+Time StampD Ford-5.28-0.0419.33-0.03 0.15-0.17 7.22-58.76-108.35Heart RateVoltage
+Time StampC Craw-0.57-0.1312.19 0.01 0.48-0.05-15.1216.66133.91Heart RateVoltage
+Time StampD Ford-5.81-2.1619.60-0.02 0.14-0.17 5.63-59.56-135.87Heart RateVoltage
+Time StampC Craw-0.89-0.4012.22 0.02 0.48-0.06-10.2614.82124.29Heart RateVoltage
+Time StampD Ford-4.11-3.2519.60-0.02 0.14-0.17-31.39-58.68-148.01Heart RateVoltage
+Time StampC Craw-1.64-0.2813.40 0.03 0.47-0.04-6.0918.71121.53Heart RateVoltage
+Time StampD Ford-1.80-3.4519.59-0.02 0.13-0.17-32.67-60.80-146.35Heart RateVoltage
+Time StampC Craw-1.54-0.4913.97 0.04 0.48-0.05 0.9340.57119.23Heart RateVoltage
+Time StampD Ford-0.12-2.1712.93-0.02 0.13-0.16-18.38-52.44-131.83Heart RateVoltage
+Time StampC Craw-1.35-0.1711.24 0.05 0.48-0.05 2.3246.11120.92Heart RateVoltage
+Time StampD Ford 1.42-1.06 7.73-0.00 0.13-0.16 9.02-62.24-115.84Heart RateVoltage
+Time StampC Craw-0.10-0.1310.61 0.07 0.47-0.05-0.8337.94107.58Heart RateVoltage
+Time StampD Ford 2.07-1.02 6.11 0.00 0.13-0.1541.14-71.88-97.44Heart RateVoltage
+Time StampC Craw-1.24-0.1111.44 0.08 0.47-0.04-5.5832.41101.05Heart RateVoltage
+Time StampD Ford 2.55-0.48 4.00 0.01 0.14-0.1644.21-70.01-78.79Heart RateVoltage
+Time StampC Craw-1.30 0.6612.59 0.09 0.46-0.05-7.1423.9294.43Heart RateVoltage
+Time StampD Ford 3.14-1.38 4.00 0.00 0.13-0.1640.02-53.51-56.53Heart RateVoltage
+Time StampC Craw-1.44 1.1213.14 0.11 0.46-0.05-2.8938.1387.66Heart RateVoltage
+Time StampD Ford 2.66-0.84 4.13 0.01 0.14-0.1738.93-24.78-36.37Heart RateVoltage
+Time StampC Craw-1.45 0.7711.06 0.12 0.46-0.04 2.7048.3382.29Heart RateVoltage
+Time StampD Ford 2.80-0.35 2.78 0.01 0.15-0.1722.85 2.77-14.12Heart RateVoltage
+Time StampC Craw-0.23 1.2710.54 0.13 0.46-0.05 4.0246.3776.82Heart RateVoltage
+Time StampD Ford 3.25 0.41 1.03 0.01 0.15-0.18-5.87 2.20 2.06Heart RateVoltage
+Time StampC Craw 0.22 1.23 9.76 0.15 0.46-0.04 9.3535.3773.58Heart RateVoltage
+Time StampD Ford 3.63 0.86-0.70 0.01 0.15-0.18-12.82-7.2414.29Heart RateVoltage
+Time StampC Craw 0.27 1.2110.24 0.15 0.46-0.0312.2230.0368.86Heart RateVoltage
+Time StampD Ford 3.76-0.61 4.92 0.01 0.14-0.19-14.21-33.5629.85Heart RateVoltage
+Time StampC Craw 0.40 0.9211.27 0.17 0.45-0.0415.7231.6064.36Heart RateVoltage
+Time StampD Ford 3.46-1.3610.06 0.01 0.13-0.17-21.54-32.4045.90Heart RateVoltage
+Time StampC Craw 1.22 0.7811.20 0.17 0.46-0.0423.2541.9264.16Heart RateVoltage
+Time StampD Ford 2.68-2.0913.41 0.00 0.14-0.16-20.15-36.2866.36Heart RateVoltage
+Time StampC Craw 0.75 0.27 9.62 0.18 0.45-0.0327.4047.7162.96Heart RateVoltage
+Time StampD Ford 1.63-1.7919.32-0.00 0.13-0.18-48.08-4.7494.47Heart RateVoltage
+Time StampC Craw 1.69 0.25 8.63 0.20 0.46-0.0220.9949.1057.94Heart RateVoltage
+Time StampD Ford 1.70-4.1919.60-0.01 0.13-0.16-5.86 7.82109.20Heart RateVoltage
+Time StampC Craw 2.08 0.50 7.73 0.21 0.45-0.0218.3040.9154.90Heart RateVoltage
+Time StampD Ford 1.83-3.5919.60-0.01 0.11-0.17-48.1316.12118.81Heart RateVoltage
+Time StampC Craw 2.58 0.83 8.44 0.22 0.45-0.0220.0535.2352.72Heart RateVoltage
+Time StampD Ford 1.16-2.5817.40-0.01 0.11-0.18-80.71-0.42111.80Heart RateVoltage
+Time StampC Craw 2.56-0.01 8.75 0.22 0.46-0.0220.3230.6649.53Heart RateVoltage
+Time StampD Ford-0.50-0.8714.55-0.03 0.10-0.16-65.49-16.93105.33Heart RateVoltage
+Time StampC Craw 3.07 0.79 8.51 0.23 0.45-0.0221.0922.6545.30Heart RateVoltage
+Time StampD Ford-1.40-0.4010.51-0.02 0.09-0.15-22.13-14.1399.71Heart RateVoltage
+Time StampC Craw 3.00 1.22 8.64 0.24 0.45-0.0213.8225.6939.18Heart RateVoltage
+Time StampD Ford-2.20-0.98 9.36-0.04 0.08-0.1639.10-14.46103.49Heart RateVoltage
+Time StampC Craw 3.86-0.1910.10 0.25 0.45-0.0217.04 7.9834.99Heart RateVoltage
+Time StampD Ford-2.11-0.01 7.48-0.04 0.09-0.1650.96-18.9199.78Heart RateVoltage
+Time StampC Craw 3.59-0.3510.65 0.25 0.45-0.0022.51 5.2131.16Heart RateVoltage
+Time StampD Ford-2.10 1.08 4.91-0.04 0.09-0.1625.82-37.1379.80Heart RateVoltage
+Time StampC Craw 2.56 0.1510.75 0.25 0.45-0.0024.2112.2930.83Heart RateVoltage
+Time StampD Ford-2.63 0.77 2.81-0.06 0.10-0.16 2.45-52.8454.72Heart RateVoltage
+Time StampC Craw 2.31 0.54 9.96 0.26 0.46-0.0120.4411.3132.24Heart RateVoltage
+Time StampD Ford-2.97 0.29 1.45-0.07 0.11-0.16-1.58-59.7536.41Heart RateVoltage
+Time StampC Craw 2.39-0.8310.47 0.26 0.45-0.0114.35 5.7433.27Heart RateVoltage
+Time StampD Ford-3.09-0.42 2.44-0.07 0.11-0.15-0.11-41.7727.37Heart RateVoltage
+Time StampC Craw 2.45-1.8711.37 0.26 0.45-0.01 8.3412.1333.80Heart RateVoltage
+Time StampD Ford-2.50 0.17 3.16-0.09 0.11-0.16 9.09-22.07 8.41Heart RateVoltage
+Time StampC Craw 3.00-1.0010.38 0.27 0.45-0.00 0.98 9.6832.86Heart RateVoltage
+Time StampD Ford-3.42-0.39 4.09-0.09 0.11-0.15-23.66-23.38-12.26Heart RateVoltage
+Time StampC Craw 2.92-0.70 9.45 0.27 0.45-0.01-8.30 3.3229.85Heart RateVoltage
+Time StampD Ford-4.56-0.16 3.26-0.09 0.11-0.16-52.17-48.53-34.41Heart RateVoltage
+Time StampC Craw 2.53-2.14 9.15 0.27 0.44-0.01-9.97-7.8535.76Heart RateVoltage
+Time StampD Ford-9.00 1.6812.04-0.10 0.10-0.14-65.89-40.49-57.82Heart RateVoltage
+Time StampC Craw 1.61-2.02 9.40 0.28 0.43 0.00-11.73-24.9141.00Heart RateVoltage
+Time StampD Ford-7.12 2.74 6.92-0.10 0.10-0.15-44.42 1.50-104.22Heart RateVoltage
+Time StampC Craw 1.00-1.94 9.67 0.28 0.43-0.01-7.27-53.6537.66Heart RateVoltage
+Time StampD Ford-3.47-0.8313.24-0.10 0.08-0.1379.18-72.21-144.44Heart RateVoltage
+Time StampC Craw 1.07-1.2610.91 0.27 0.43-0.03-3.30-56.3134.43Heart RateVoltage
+Time StampD Ford-7.20-4.0419.60-0.09 0.09-0.1479.02-65.92-143.53Heart RateVoltage
+Time StampC Craw 1.81-1.76 9.29 0.27 0.43-0.03 0.94-3.5227.18Heart RateVoltage
+Time StampD Ford-4.76-3.7819.60-0.09 0.09-0.14 3.01-31.95-127.37Heart RateVoltage
+Time StampC Craw 3.03-0.59 5.74 0.28 0.42-0.04-12.1838.7425.31Heart RateVoltage
+Time StampD Ford-0.85-1.4215.03-0.09 0.10-0.1326.09-40.85-115.65Heart RateVoltage
+Time StampC Craw 2.65 0.06 4.34 0.28 0.43-0.02-11.3830.5125.55Heart RateVoltage
+Time StampD Ford 3.26-0.6311.91-0.07 0.11-0.1546.94-54.18-114.43Heart RateVoltage
+Time StampC Craw 1.74-1.13 4.28 0.29 0.42-0.03 1.81 6.4126.42Heart RateVoltage
+Time StampD Ford 4.13 0.53 7.49-0.09 0.12-0.1449.15-85.58-116.20Heart RateVoltage
+Time StampC Craw 1.44-0.91 4.84 0.29 0.42-0.02 2.67 3.6628.41Heart RateVoltage
+Time StampD Ford 2.56 0.46 6.38-0.08 0.13-0.1535.09-133.52-116.48Heart RateVoltage
+Time StampC Craw 1.83-0.22 4.34 0.29 0.42-0.02 4.0114.4024.22Heart RateVoltage
+Time StampD Ford 1.38-1.92 6.84-0.11 0.13-0.15-12.47-151.43-102.79Heart RateVoltage
+Time StampC Craw 2.30 0.08 3.35 0.29 0.42-0.01 9.9228.1717.56Heart RateVoltage
+Time StampD Ford 0.91-2.45 6.22-0.11 0.13-0.14-48.11-133.61-71.32Heart RateVoltage
+Time StampC Craw 2.20 0.25 2.17 0.30 0.41-0.02 4.7126.0214.88Heart RateVoltage
+Time StampD Ford 1.89-1.10 2.56-0.13 0.11-0.14-28.05-70.48-34.90Heart RateVoltage
+Time StampC Craw 2.47 0.28 2.19 0.31 0.41-0.02 0.97 3.5510.87Heart RateVoltage
+Time StampD Ford 2.86-0.16 2.30-0.13 0.11-0.1314.90-16.45-6.98Heart RateVoltage
+Time StampC Craw 3.04 0.45 3.24 0.31 0.41-0.01 2.44-1.0811.93Heart RateVoltage
+Time StampD Ford 2.20 0.13 1.87-0.12 0.13-0.1439.5925.2015.78Heart RateVoltage
+Time StampC Craw 3.47 0.51 1.91 0.32 0.41-0.01-2.86 1.3110.67Heart RateVoltage
+Time StampD Ford 2.92 0.19 5.16-0.13 0.13-0.1435.4426.8236.14Heart RateVoltage
+Time StampC Craw 4.21 0.19 1.05 0.32 0.41-0.01-0.60-10.33 3.54Heart RateVoltage
+Time StampD Ford 3.56-0.28 9.40-0.11 0.15-0.1717.9519.0050.69Heart RateVoltage
+Time StampC Craw 4.28 0.40 2.78 0.32 0.40-0.01-3.54-35.29 4.23Heart RateVoltage
+Time StampD Ford 3.67-1.1813.66-0.10 0.16-0.16-1.15 6.1667.76Heart RateVoltage
+Time StampC Craw 3.39 1.23 6.78 0.31 0.41-0.02 3.27-70.48-8.81Heart RateVoltage
+Time StampD Ford 1.63-1.8719.60-0.09 0.16-0.16-21.5218.4695.99Heart RateVoltage
+Time StampC Craw 1.43 0.87 9.49 0.31 0.40-0.02-9.65-11.07-1.87Heart RateVoltage
+Time StampD Ford 3.40-2.8019.60-0.08 0.18-0.16-4.2346.20115.11Heart RateVoltage
+Time StampC Craw 2.79 0.24 8.74 0.31 0.41-0.02 6.5234.33-0.25Heart RateVoltage
+Time StampD Ford 1.07-5.3119.60-0.08 0.16-0.16-40.8126.88133.00Heart RateVoltage
+Time StampC Craw 1.88 0.22 6.16 0.31 0.40-0.02 4.3441.82 1.26Heart RateVoltage
+Time StampD Ford-1.09-3.9719.03-0.07 0.17-0.16-81.00-8.68150.49Heart RateVoltage
+Time StampC Craw 0.15 1.54 6.82 0.31 0.40-0.02 2.9049.17-1.30Heart RateVoltage
+Time StampD Ford-1.31-2.7616.34-0.06 0.16-0.15-82.57-33.34152.82Heart RateVoltage
+Time StampC Craw 0.23 1.87 7.72 0.32 0.41-0.03 2.0151.60-11.17Heart RateVoltage
+Time StampD Ford-1.94-0.8911.43-0.07 0.14-0.16-68.44-35.66138.18Heart RateVoltage
+Time StampC Craw-0.15 0.45 8.16 0.32 0.41-0.02-4.6745.43-2.37Heart RateVoltage
+Time StampD Ford-1.31-0.40 7.50-0.07 0.13-0.14-11.83-27.64116.99Heart RateVoltage
+Time StampC Craw 1.53 0.74 7.04 0.33 0.40-0.02 2.6523.96 0.06Heart RateVoltage
+Time StampD Ford-1.59-0.34 5.17-0.07 0.13-0.1543.24-14.3597.94Heart RateVoltage
+Time StampC Craw 1.00 0.08 6.29 0.34 0.40-0.00 5.19-13.59-2.55Heart RateVoltage
+Time StampD Ford-1.99-1.06 2.63-0.07 0.14-0.1562.02-15.0381.72Heart RateVoltage
+Time StampC Craw 0.90 0.95 7.67 0.34 0.41-0.02-6.44-56.81 7.36Heart RateVoltage
+Time StampD Ford-3.00-0.17 1.61-0.07 0.15-0.1652.36-37.7965.07Heart RateVoltage
+Time StampC Craw 1.01 0.67 8.07 0.33 0.40-0.02-8.88-78.4311.72Heart RateVoltage
+Time StampD Ford-3.40-0.27 1.87-0.07 0.16-0.1518.73-54.1146.10Heart RateVoltage
+Time StampC Craw-0.39-0.04 6.71 0.32 0.40-0.03-11.26-70.94 6.92Heart RateVoltage
+Time StampD Ford-3.05-0.44 0.98-0.08 0.17-0.16-10.19-48.4831.73Heart RateVoltage
+Time StampC Craw-1.61 0.24 7.43 0.31 0.39-0.04-27.34-70.54 9.56Heart RateVoltage
+Time StampD Ford-3.17 0.04-0.26-0.08 0.16-0.15-2.72-24.4619.63Heart RateVoltage
+Time StampC Craw 1.64-0.1311.05 0.30 0.38-0.05-41.62-83.3316.20Heart RateVoltage
+Time StampD Ford-4.50 0.40 1.09-0.08 0.15-0.1519.70-0.23 8.98Heart RateVoltage
+Time StampC Craw 1.63 0.9511.88 0.29 0.37-0.06-34.73-72.61 3.96Heart RateVoltage
+Time StampD Ford-5.56 0.06 4.20-0.08 0.15-0.1623.27-1.06-18.57Heart RateVoltage
+Time StampC Craw 0.33 1.18 9.57 0.28 0.35-0.07-28.95-44.94 1.66Heart RateVoltage
+Time StampD Ford-5.58 0.3510.55-0.06 0.15-0.15 5.81-10.66-52.88Heart RateVoltage
+Time StampC Craw 1.07 1.03 9.23 0.28 0.35-0.07-22.96-58.58 7.24Heart RateVoltage
+Time StampD Ford-5.95-0.5812.35-0.05 0.14-0.15-6.61-21.34-93.00Heart RateVoltage
+Time StampC Craw-0.36 1.2712.44 0.26 0.34-0.08-8.99-50.69-0.21Heart RateVoltage
+Time StampD Ford-6.57-1.9419.60-0.04 0.15-0.1572.81-40.51-134.74Heart RateVoltage
+Time StampC Craw-2.12 1.7912.63 0.26 0.34-0.07-0.32-33.20 6.99Heart RateVoltage
